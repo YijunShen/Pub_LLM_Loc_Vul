@@ -1,0 +1,7 @@
+{
+    "Affected Component": "the file src/binwalk/modules/extractor.py",
+    "Attack Vector": "remote attack",
+    "Impact": "symlink following",
+    "Root Cause": null,
+    "Affected Product and Versions": "ReFirm Labs binwalk up to 2.3.2"
+}

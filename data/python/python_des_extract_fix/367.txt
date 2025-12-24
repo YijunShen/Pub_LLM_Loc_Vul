@@ -1,0 +1,7 @@
+{
+    "Affected Component": "GraphQL mutations",
+    "Attack Vector": "malicious GraphQL queries",
+    "Impact": "unauthorized access to database objects, exposure of email addresses and full names",
+    "Root Cause": "improper checking of ID type input",
+    "Affected Product and Versions": "Saleor 3.1.0–3.7.16, 3.6.0–3.6.17, 3.5.0–3.5.22, 3.4.0–3.4.23, 3.3.0–3.3.25, 3.2.0–3.2.13"
+}

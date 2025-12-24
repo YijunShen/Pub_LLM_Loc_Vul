@@ -1,0 +1,7 @@
+{
+    "Affected Component": "filtering or mass-updates on char/text fields",
+    "Attack Vector": "crafted SQL queries via filtering or mass-updates",
+    "Impact": "SQL injection",
+    "Root Cause": "improper input sanitization or validation",
+    "Affected Product and Versions": "Tortoise ORM before 0.15.23 and 0.16.6"
+}

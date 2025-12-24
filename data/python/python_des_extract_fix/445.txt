@@ -1,0 +1,7 @@
+{
+    "Affected Component": null,
+    "Attack Vector": "crafted request to /static/* endpoint",
+    "Impact": "read any file accessible to the Galaxy OS user",
+    "Root Cause": "switch to Gunicorn for serving static contents directly",
+    "Affected Product and Versions": "Galaxy 22.01 and higher"
+}

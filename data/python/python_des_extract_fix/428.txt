@@ -1,0 +1,7 @@
+{
+    "Affected Component": "update_profile function in gamespy/gs_database.py",
+    "Attack Vector": "manipulation of firstname/lastname arguments",
+    "Impact": null,
+    "Root Cause": null,
+    "Affected Product and Versions": "barronwaffles dwc_network_server_emulator"
+}

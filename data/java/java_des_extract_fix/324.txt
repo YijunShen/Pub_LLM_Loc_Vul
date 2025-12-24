@@ -1,0 +1,7 @@
+{
+    "Affected Component": "XmlBuildSpecMigrator.migrate method",
+    "Attack Vector": "crafted XML document with external entities",
+    "Impact": "arbitrary file read",
+    "Root Cause": "processing XML without preventing expansion of external entities",
+    "Affected Product and Versions": "OneDev before 4.0.3"
+}

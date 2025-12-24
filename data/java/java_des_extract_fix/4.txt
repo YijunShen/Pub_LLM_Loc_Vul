@@ -1,0 +1,7 @@
+{
+    "Affected Component": null,
+    "Attack Vector": "tricking users into logging in to the attacker's account",
+    "Impact": null,
+    "Root Cause": null,
+    "Affected Product and Versions": "Jenkins Bitbucket OAuth Plugin 0.12 and earlier"
+}

@@ -1,0 +1,7 @@
+{
+    "Affected Component": "SQL parser regular expression",
+    "Attack Vector": "crafted SQL input",
+    "Impact": "Denial of Service (DoS)",
+    "Root Cause": "vulnerable regular expression",
+    "Affected Product and Versions": "sqlparse versions before 0.4.4"
+}

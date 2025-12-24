@@ -1,0 +1,7 @@
+{
+    "Affected Component": null,
+    "Attack Vector": null,
+    "Impact": "sensitive data not properly cleaned, including End-to-End encryption keys",
+    "Root Cause": "timeout issue",
+    "Affected Product and Versions": "Nextcloud Android App before 3.16.1"
+}

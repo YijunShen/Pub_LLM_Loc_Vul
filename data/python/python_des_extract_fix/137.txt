@@ -1,0 +1,7 @@
+{
+    "Affected Component": "SqliteAccountInfo class",
+    "Attack Vector": "time-of-check-time-of-use (TOCTOU) race condition",
+    "Impact": "disclosure of API keys and bucket name-to-id mapping",
+    "Root Cause": "world readable file creation before permission modification",
+    "Affected Product and Versions": "b2-sdk-python 1.14.0 and below"
+}

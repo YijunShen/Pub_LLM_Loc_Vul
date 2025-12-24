@@ -1,0 +1,7 @@
+{
+    "Affected Component": "record publishing functionality",
+    "Attack Vector": "REST API calls by authenticated user",
+    "Impact": "publish draft records of other users",
+    "Root Cause": "does not properly check permissions",
+    "Affected Product and Versions": "Invenio-Drafts-Resources prior to 0.13.7 and 0.14.6"
+}

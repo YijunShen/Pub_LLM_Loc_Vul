@@ -1,0 +1,7 @@
+{
+    "Affected Component": null,
+    "Attack Vector": "community or collection administrator actions",
+    "Impact": "become system administrator",
+    "Root Cause": null,
+    "Affected Product and Versions": "DSpace 7.0"
+}

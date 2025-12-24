@@ -1,0 +1,7 @@
+{
+    "Affected Component": "HTML sanitizer",
+    "Attack Vector": "invalid data attributes",
+    "Impact": "arbitrary HTML code injection",
+    "Root Cause": "improper validation of data attributes",
+    "Affected Product and Versions": "org.xwiki.commons:xwiki-commons-xml from 14.6-rc-1 to before 14.10.4 and 15.0 RC1"
+}

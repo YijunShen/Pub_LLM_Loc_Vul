@@ -1,0 +1,7 @@
+{
+    "Affected Component": "OAuthConfirmationController.java during OAuth authorization flow",
+    "Attack Vector": "HTTP request parameters",
+    "Impact": null,
+    "Root Cause": "unsafe usage of @ModelAttribute annotation",
+    "Affected Product and Versions": "MITREid Connect through 1.3.3"
+}

@@ -1,0 +1,7 @@
+{
+    "Affected Component": "token filter",
+    "Attack Vector": "including a non-blacklisted URL and a triggering filter token in the same message",
+    "Impact": "moderation filter bypass",
+    "Root Cause": "token filter does not trigger when a non-blacklisted URL is included",
+    "Affected Product and Versions": "Python discord bot (affected versions not specified)"
+}

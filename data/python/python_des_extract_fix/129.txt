@@ -1,0 +1,7 @@
+{
+    "Affected Component": "notifications for new replies in comment threads",
+    "Attack Vector": "leaving a comment or reply on the site",
+    "Impact": "unauthorized access to comment replies",
+    "Root Cause": "improper notification scope (sent to all users who have commented anywhere, not just relevant threads)",
+    "Affected Product and Versions": "Wagtail versions before 2.15.2"
+}

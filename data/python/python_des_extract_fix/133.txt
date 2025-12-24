@@ -1,0 +1,7 @@
+{
+    "Affected Component": "multi-use invitations",
+    "Attack Vector": "using an invitation from one organization to join another",
+    "Impact": "bypass access restrictions, gain unauthorized access with elevated privileges",
+    "Root Cause": "insufficient access control with multi-use invitations",
+    "Affected Product and Versions": "Zulip Server 2.0.0–4.9"
+}

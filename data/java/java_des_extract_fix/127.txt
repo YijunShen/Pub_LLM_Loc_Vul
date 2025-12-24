@@ -1,0 +1,7 @@
+{
+    "Affected Component": "Title field under the Upload Image module",
+    "Attack Vector": "crafted payload injected into the Title field",
+    "Impact": "execute arbitrary web scripts or HTML",
+    "Root Cause": null,
+    "Affected Product and Versions": "alkacon-OpenCMS v11.0.0.0"
+}

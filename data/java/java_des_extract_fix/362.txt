@@ -1,0 +1,7 @@
+{
+    "Affected Component": null,
+    "Attack Vector": "crafted HTTP request",
+    "Impact": "access application classes and resources on the server",
+    "Root Cause": null,
+    "Affected Product and Versions": "com.vaadin:flow-server 1.2.0–2.4.7 (Vaadin 12.0.0–14.4.9), 6.0.0–6.0.1 (Vaadin 19.0.0)"
+}

@@ -1,0 +1,7 @@
+{
+    "Affected Component": null,
+    "Attack Vector": "visiting maliciously crafted links",
+    "Impact": "arbitrary code execution",
+    "Root Cause": "unsanitized input",
+    "Affected Product and Versions": "nbgitpuller versions before 0.10.2"
+}

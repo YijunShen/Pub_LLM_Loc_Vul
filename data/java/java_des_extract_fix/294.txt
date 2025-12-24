@@ -1,0 +1,7 @@
+{
+    "Affected Component": "User Profile Menu",
+    "Attack Vector": "manipulation of the argument firstName/lastName",
+    "Impact": "cross site scripting",
+    "Root Cause": null,
+    "Affected Product and Versions": "Joget up to 7.0.33"
+}

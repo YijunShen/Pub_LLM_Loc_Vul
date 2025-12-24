@@ -1,0 +1,7 @@
+{
+    "Affected Component": "MultipartParser",
+    "Attack Vector": "specifying excessive form fields or files",
+    "Impact": "excessive memory usage and denial of service",
+    "Root Cause": "improper handling of form fields or files",
+    "Affected Product and Versions": "Encode's Starlette python framework before 0.25.0"
+}

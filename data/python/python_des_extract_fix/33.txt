@@ -1,0 +1,7 @@
+{
+    "Affected Component": null,
+    "Attack Vector": "submitting Discord channel IDs not belonging to the server",
+    "Impact": "unauthorized change of settings for any channel",
+    "Root Cause": "no validation of channel IDs against server ownership",
+    "Affected Product and Versions": "kenny2automate prior to commit a947d7c"
+}

@@ -1,0 +1,7 @@
+{
+    "Affected Component": null,
+    "Attack Vector": "staff-authenticated requests",
+    "Impact": "sensitive information returned",
+    "Root Cause": "improper handling of internal Python exceptions",
+    "Affected Product and Versions": "Saleor null"
+}

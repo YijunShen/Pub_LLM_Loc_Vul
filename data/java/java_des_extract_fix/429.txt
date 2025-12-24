@@ -1,0 +1,7 @@
+{
+    "Affected Component": "BasicAuthProvider.java",
+    "Attack Vector": "using an inactive identifier",
+    "Impact": "authentication bypass",
+    "Root Cause": "improper handling of inactive identifiers",
+    "Affected Product and Versions": "AuthGuard before 0.9.0"
+}

@@ -1,0 +1,7 @@
+{
+    "Affected Component": "cookie handling in request methods and HTTPClient constructor",
+    "Attack Vector": "HTTP redirect to a different domain",
+    "Impact": "sensitive information leak",
+    "Root Cause": "cookies not bound to a single domain",
+    "Affected Product and Versions": "treq versions before 2021.1.0"
+}

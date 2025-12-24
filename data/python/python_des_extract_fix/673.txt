@@ -1,0 +1,7 @@
+{
+    "Affected Component": "upload_log_data feature",
+    "Attack Vector": "upload_log_data",
+    "Impact": "arbitrary file write operations",
+    "Root Cause": null,
+    "Affected Product and Versions": "Cobbler before 3.3.0"
+}

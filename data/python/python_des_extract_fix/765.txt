@@ -1,0 +1,7 @@
+{
+    "Affected Component": "get the value of sensitive config keys",
+    "Attack Vector": "unauthenticated user request",
+    "Impact": "disclosure of sensitive config keys",
+    "Root Cause": "improper access control",
+    "Affected Product and Versions": "RACTF before commit f3dc89b9f6ab1544a289b3efc06699b13d63e0bd"
+}

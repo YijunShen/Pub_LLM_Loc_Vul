@@ -1,0 +1,7 @@
+{
+    "Affected Component": "getItem function in LocalFilesystemConnector.java",
+    "Attack Vector": "local host manipulation",
+    "Impact": "path traversal",
+    "Root Cause": null,
+    "Affected Product and Versions": "cloudsync (unsupported versions)"
+}

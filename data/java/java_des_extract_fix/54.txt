@@ -1,0 +1,7 @@
+{
+    "Affected Component": null,
+    "Attack Vector": null,
+    "Impact": null,
+    "Root Cause": null,
+    "Affected Product and Versions": "Apache InLong 1.1.0–1.5.0"
+}

@@ -1,0 +1,7 @@
+{
+    "Affected Component": null,
+    "Attack Vector": "using the REST API without capture filter",
+    "Impact": "capture and download all network packets",
+    "Root Cause": "inadequate permissions enforcement",
+    "Affected Product and Versions": "pcapture before v3.12"
+}

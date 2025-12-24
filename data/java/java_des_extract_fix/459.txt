@@ -1,0 +1,7 @@
+{
+    "Affected Component": null,
+    "Attack Vector": "multiple concurrent requests",
+    "Impact": "handled using identity from another request",
+    "Root Cause": "flaw causing security identity corruption across concurrent threads",
+    "Affected Product and Versions": "Soteria before 1.0.1"
+}

@@ -1,0 +1,7 @@
+{
+    "Affected Component": "output serializer for STYLE content",
+    "Attack Vector": "crafted input with HTML tag smuggling on STYLE content",
+    "Impact": null,
+    "Root Cause": "does not properly encode the supposed Cascading Style Sheets (CSS) content",
+    "Affected Product and Versions": "OWASP AntiSamy before 1.6.6"
+}

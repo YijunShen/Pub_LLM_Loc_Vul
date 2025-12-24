@@ -1,0 +1,7 @@
+{
+    "Affected Component": null,
+    "Attack Vector": "crafted script content or script content in SVG files embedded using data URIs",
+    "Impact": "potential script execution",
+    "Root Cause": "improper filtering of script content",
+    "Affected Product and Versions": "lxml prior to 4.6.5"
+}

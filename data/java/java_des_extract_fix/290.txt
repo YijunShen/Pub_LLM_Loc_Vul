@@ -1,0 +1,7 @@
+{
+    "Affected Component": "getFileExtension function in FileUtils.java",
+    "Attack Vector": null,
+    "Impact": "insecure temporary file",
+    "Root Cause": null,
+    "Affected Product and Versions": "OpenKM up to 6.3.11"
+}

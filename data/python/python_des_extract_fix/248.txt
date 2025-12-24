@@ -1,0 +1,7 @@
+{
+    "Affected Component": "access to ansible-runner's private_data_dir the next time ansible-runner made use of the private_data_dir",
+    "Attack Vector": "watching for rapid creation and deletion of a temporary directory and substituting their directory",
+    "Impact": "access to ansible-runner's private_data_dir, compromising integrity and confidentiality",
+    "Root Cause": "race condition flaw",
+    "Affected Product and Versions": "ansible-runner (versions not specified)"
+}

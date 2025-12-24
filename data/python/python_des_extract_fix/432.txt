@@ -1,0 +1,7 @@
+{
+    "Affected Component": "title function in src/collective/contact/widget/widgets.py",
+    "Attack Vector": "remote",
+    "Impact": "cross site scripting",
+    "Root Cause": null,
+    "Affected Product and Versions": "collective.contact.widget up to 1.12"
+}

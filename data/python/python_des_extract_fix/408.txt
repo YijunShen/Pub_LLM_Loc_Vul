@@ -1,0 +1,7 @@
+{
+    "Affected Component": "SCIM bearer token comparator",
+    "Attack Vector": "timing analysis on failing requests",
+    "Impact": "impersonate SCIM client to read and update user accounts",
+    "Root Cause": "comparator that did not run in constant time",
+    "Affected Product and Versions": "Zulip Server 5.0–5.6"
+}

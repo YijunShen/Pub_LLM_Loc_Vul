@@ -1,0 +1,7 @@
+{
+    "Affected Component": null,
+    "Attack Vector": "publishing or removing an episode with strict access rules",
+    "Impact": "denial of access for users without superuser privileges, hiding series",
+    "Root Cause": "failure to update or remove series access on event removal or republishing",
+    "Affected Product and Versions": "Opencast before 9.2"
+}

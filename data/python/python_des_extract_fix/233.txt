@@ -1,0 +1,7 @@
+{
+    "Affected Component": "Flask send_file function",
+    "Attack Vector": "unsafe use of send_file",
+    "Impact": null,
+    "Root Cause": "unsafe use of Flask send_file function",
+    "Affected Product and Versions": "olmax99/helm-flask-celery repository before 2022-05-25"
+}

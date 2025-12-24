@@ -1,0 +1,7 @@
+{
+    "Affected Component": "\"Request a Copy\" feature",
+    "Attack Vector": "submitting malicious values to the form",
+    "Impact": "cross-site scripting attacks",
+    "Root Cause": "does not properly escape values submitted and stored",
+    "Affected Product and Versions": "DSpace JSPUI (specific versions not mentioned)"
+}

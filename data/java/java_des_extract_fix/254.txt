@@ -1,0 +1,7 @@
+{
+    "Affected Component": "isDockerInstalled function",
+    "Attack Vector": null,
+    "Impact": "remote code execution",
+    "Root Cause": "attempting to execute input",
+    "Affected Product and Versions": "com.google.cloud.tools:jib-core before 0.22.0"
+}

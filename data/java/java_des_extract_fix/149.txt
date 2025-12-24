@@ -1,0 +1,7 @@
+{
+    "Affected Component": "XWiki#invokeServletAndReturnAsString",
+    "Attack Vector": "invoking XWiki#invokeServletAndReturnAsString with a specific path",
+    "Impact": "read any file in the XWiki WAR",
+    "Root Cause": "improper access control in invokeServletAndReturnAsString",
+    "Affected Product and Versions": "XWiki Platform versions before 12.10.9, 13.4.3, and 13.7-rc-1"
+}

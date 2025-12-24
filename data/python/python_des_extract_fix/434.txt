@@ -1,0 +1,7 @@
+{
+    "Affected Component": "file extraction in shutil.unpack_archive()",
+    "Attack Vector": "specially-crafted remote PyPI package",
+    "Impact": "overwrite files outside the destination directory",
+    "Root Cause": "improper validation of destination file path",
+    "Affected Product and Versions": "GuardDog prior to v0.1.8"
+}

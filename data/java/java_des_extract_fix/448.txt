@@ -1,0 +1,7 @@
+{
+    "Affected Component": "LDAP extSource configuration",
+    "Attack Vector": "modification of configuration by VO or group manager",
+    "Impact": "retrieve all from Perun LDAP",
+    "Root Cause": "lack of input sanitisation",
+    "Affected Product and Versions": "Perun before 3.9.1"
+}

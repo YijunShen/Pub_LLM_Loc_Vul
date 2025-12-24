@@ -1,0 +1,7 @@
+{
+    "Affected Component": null,
+    "Attack Vector": "write access to the filesystem on the host machine",
+    "Impact": "privilege escalation to system level",
+    "Root Cause": "unquoted Windows binary path",
+    "Affected Product and Versions": "Traccar before version 4.12"
+}

@@ -1,0 +1,7 @@
+{
+    "Affected Component": "LOGID parameter evaluation",
+    "Attack Vector": "specially crafted link",
+    "Impact": "execution of malicious script code in the user's browser",
+    "Root Cause": null,
+    "Affected Product and Versions": "Goobi viewer core prior to version 23.03"
+}

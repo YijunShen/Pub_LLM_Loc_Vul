@@ -1,0 +1,7 @@
+{
+    "Affected Component": "the function query of the file src/main/java/custom/application/search.java",
+    "Attack Vector": "manipulation of query function",
+    "Impact": "sql injection",
+    "Root Cause": null,
+    "Affected Product and Versions": "m0ver bible-online null"
+}

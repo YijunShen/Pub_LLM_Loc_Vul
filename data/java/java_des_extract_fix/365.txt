@@ -1,0 +1,7 @@
+{
+    "Affected Component": "configuration of default ObjectMapper",
+    "Attack Vector": "use of @RestController",
+    "Impact": "expose sensitive data",
+    "Root Cause": "insecure configuration of default ObjectMapper",
+    "Affected Product and Versions": "com.vaadin:flow-server 3.0.0–3.0.5, Vaadin 15.0.0–15.0.4"
+}

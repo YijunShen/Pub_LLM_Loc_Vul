@@ -1,0 +1,7 @@
+{
+    "Affected Component": "agent key reset mechanism",
+    "Attack Vector": "crafted request to the agent",
+    "Impact": "remote code execution",
+    "Root Cause": null,
+    "Affected Product and Versions": "Keylime before 6.3.0"
+}

@@ -1,0 +1,7 @@
+{
+    "Affected Component": "StaticAnalyzer/views.py script",
+    "Attack Vector": "crafted HTTP request",
+    "Impact": "read arbitrary files",
+    "Root Cause": null,
+    "Affected Product and Versions": "Mobile Security Framework (MobSF) v0.9.2 and below"
+}

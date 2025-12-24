@@ -1,0 +1,7 @@
+{
+    "Affected Component": "key parser error message generation",
+    "Attack Vector": "modifying the declared length of a key's sensitive field",
+    "Impact": "exposure of raw field value",
+    "Root Cause": "error message containing raw field value",
+    "Affected Product and Versions": "openssh_key_parser prior to 0.0.6"
+}

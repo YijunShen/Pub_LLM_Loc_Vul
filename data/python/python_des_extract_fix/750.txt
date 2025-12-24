@@ -1,0 +1,7 @@
+{
+    "Affected Component": "Transfer encoding header parser",
+    "Attack Vector": "HTTP pipelining issues and crafted HTTP requests",
+    "Impact": "request smuggling attacks",
+    "Root Cause": "incorrect Transfer encoding header parsing",
+    "Affected Product and Versions": "netius prior to 1.17.58"
+}

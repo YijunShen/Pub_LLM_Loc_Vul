@@ -1,0 +1,7 @@
+{
+    "Affected Component": null,
+    "Attack Vector": "crafted page revision history",
+    "Impact": "perform actions with higher privileged user's credentials",
+    "Root Cause": null,
+    "Affected Product and Versions": "Wagtail before 2.8.1 and 2.7.2"
+}

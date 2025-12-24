@@ -1,0 +1,7 @@
+{
+    "Affected Component": "torch.jit.annotations.parse_type_line",
+    "Attack Vector": null,
+    "Impact": "arbitrary code execution",
+    "Root Cause": "eval used unsafely",
+    "Affected Product and Versions": "PyTorch before trunk/89695"
+}

@@ -1,0 +1,7 @@
+{
+    "Affected Component": "page template functionality",
+    "Attack Vector": "using a page as template for a new page",
+    "Impact": "copy content of a page without access",
+    "Root Cause": "improper access control",
+    "Affected Product and Versions": "XWiki Platform versions before 13.2CR1 and 12.10.6"
+}

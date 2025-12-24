@@ -1,0 +1,7 @@
+{
+    "Affected Component": null,
+    "Attack Vector": null,
+    "Impact": null,
+    "Root Cause": null,
+    "Affected Product and Versions": "Apache Software Foundation Apache Airflow before 2.6.0"
+}

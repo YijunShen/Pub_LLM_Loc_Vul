@@ -1,0 +1,7 @@
+{
+    "Affected Component": "HTTP request handler",
+    "Attack Vector": "crafted requests to internal systems",
+    "Impact": "internal port enumeration",
+    "Root Cause": "lack of parameter validation or IP address blacklisting",
+    "Affected Product and Versions": "Sydent (versions not specified)"
+}

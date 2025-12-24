@@ -1,0 +1,7 @@
+{
+    "Affected Component": "git executable path configuration in advanced settings",
+    "Attack Vector": "updating the git executable path via the web interface",
+    "Impact": "arbitrary OS command execution",
+    "Root Cause": "improper input validation or sanitization of the git path input",
+    "Affected Product and Versions": "pymedusa prior to 1.0.12"
+}

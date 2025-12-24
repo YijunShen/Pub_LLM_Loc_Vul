@@ -1,0 +1,7 @@
+{
+    "Affected Component": "REST UserResource endpoint /users/{id}",
+    "Attack Vector": "HTTP request to /users/{id} endpoint",
+    "Impact": "sensitive data leak, access token disclosure, impersonation",
+    "Root Cause": "no security checks enforced",
+    "Affected Product and Versions": "OneDev before 4.0.3"
+}

@@ -1,0 +1,7 @@
+{
+    "Affected Component": "the local system temporary directory if temporary storing uploads on the disk",
+    "Attack Vector": "use of multipart decoders with temporary storage on disk enabled",
+    "Impact": "local information disclosure",
+    "Root Cause": "insufficient fix for CVE-2021-21290 leading to shared system temporary directory access",
+    "Affected Product and Versions": "io.netty:netty-codec-http prior to 4.1.77.Final"
+}

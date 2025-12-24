@@ -1,0 +1,7 @@
+{
+    "Affected Component": null,
+    "Attack Vector": "web request",
+    "Impact": "perform operations with unintended privileges",
+    "Root Cause": "state leak between web requests",
+    "Affected Product and Versions": "Quarkus"
+}

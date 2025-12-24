@@ -1,0 +1,7 @@
+{
+    "Affected Component": "the vulnerable `send_file` function",
+    "Attack Vector": "untrusted input passed to os.path.join",
+    "Impact": "path traversal attacks",
+    "Root Cause": "unsafe use of os.path.join with untrusted input",
+    "Affected Product and Versions": "Piano LED Visualizer 1.3 and prior"
+}

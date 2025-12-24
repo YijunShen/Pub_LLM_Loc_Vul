@@ -1,0 +1,7 @@
+{
+    "Affected Component": "yaml.load() method",
+    "Attack Vector": "specially crafted YAML configuration file",
+    "Impact": "arbitrary code execution",
+    "Root Cause": "use of yaml.load() instead of yaml.safe_load()",
+    "Affected Product and Versions": "tenable-jira-cloud before 1.1.21"
+}

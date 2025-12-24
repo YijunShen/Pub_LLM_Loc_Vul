@@ -1,0 +1,7 @@
+{
+    "Affected Component": null,
+    "Attack Vector": "inject arbitrary Java EL expressions",
+    "Impact": "unauthenticated remote code execution",
+    "Root Cause": "improper input validation",
+    "Affected Product and Versions": "cron-utils up to 9.1.2"
+}

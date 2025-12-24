@@ -1,0 +1,7 @@
+{
+    "Affected Component": null,
+    "Attack Vector": "crafted file upload",
+    "Impact": "access or delete files in AWS S3 bucket",
+    "Root Cause": "improper path validation",
+    "Affected Product and Versions": "django-s3file prior to 5.5.1"
+}

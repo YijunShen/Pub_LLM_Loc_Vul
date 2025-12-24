@@ -1,0 +1,7 @@
+{
+    "Affected Component": "legacy channels.http.AsgiHandler class",
+    "Attack Vector": "remote request with correct timing",
+    "Impact": "leakage of session identifiers and other sensitive data",
+    "Root Cause": "did not correctly separate request scopes",
+    "Affected Product and Versions": "Django Channels 3.x before 3.0.3"
+}

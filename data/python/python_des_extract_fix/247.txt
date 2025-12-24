@@ -1,0 +1,7 @@
+{
+    "Affected Component": "calling the ansible_runner.interface.run_command",
+    "Attack Vector": "crafted shell command parameters",
+    "Impact": "execution of arbitrary host shell commands",
+    "Root Cause": "improper escaping of the shell command",
+    "Affected Product and Versions": "ansible-runner null"
+}

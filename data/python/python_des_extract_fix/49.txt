@@ -1,0 +1,7 @@
+{
+    "Affected Component": "file upload handling",
+    "Attack Vector": "uploaded files with arbitrary Content-Type",
+    "Impact": "session theft",
+    "Root Cause": "improper Content-Type validation and lack of Content-Security-Policy header",
+    "Affected Product and Versions": "Zulip main branch after commit 04cf68b and before commit 2f6c5a8"
+}

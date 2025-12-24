@@ -1,0 +1,7 @@
+{
+    "Affected Component": "custom components handler",
+    "Attack Vector": "crafted malicious URL with file paths",
+    "Impact": "data leakage (e.g., server logs, world readable files, sensitive information)",
+    "Root Cause": "improper input validation of URLs",
+    "Affected Product and Versions": "Streamlit versions before 1.11.1"
+}

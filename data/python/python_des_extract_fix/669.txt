@@ -1,0 +1,7 @@
+{
+    "Affected Component": "HttpAuthMiddleware",
+    "Attack Vector": "requests to unintended targets",
+    "Impact": "exposure of credentials",
+    "Root Cause": "global credential configuration without domain restriction",
+    "Affected Product and Versions": "Scrapy versions before 1.8.1 and before 2.5.1"
+}

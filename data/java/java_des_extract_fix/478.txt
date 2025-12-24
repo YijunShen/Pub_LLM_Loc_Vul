@@ -1,0 +1,7 @@
+{
+    "Affected Component": "HTTPS hostname verification of its HTTP client",
+    "Attack Vector": "disabling HTTPS hostname verification",
+    "Impact": "man-in-the-middle attacks",
+    "Root Cause": "disables HTTPS hostname verification",
+    "Affected Product and Versions": "Opencast before 7.9 and before 8.9"
+}

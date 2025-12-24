@@ -1,0 +1,7 @@
+{
+    "Affected Component": null,
+    "Attack Vector": null,
+    "Impact": null,
+    "Root Cause": null,
+    "Affected Product and Versions": "horovod/horovod prior to 0.24.0"
+}

@@ -1,0 +1,7 @@
+{
+    "Affected Component": "createTempDir() function in util/IOUtil.java",
+    "Attack Vector": null,
+    "Impact": null,
+    "Root Cause": "not checking for the existence of the temporary directory before attempting to create it",
+    "Affected Product and Versions": "com.github.samtools:htsjdk before 3.0.1"
+}

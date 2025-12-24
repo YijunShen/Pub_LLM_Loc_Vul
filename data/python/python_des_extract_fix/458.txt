@@ -1,0 +1,7 @@
+{
+    "Affected Component": "input a Standard ML (SML) source file only contains the \"exception\" keyword",
+    "Attack Vector": "syntax highlighting of a Standard ML (SML) source file containing only the 'exception' keyword",
+    "Impact": "denial of service",
+    "Root Cause": null,
+    "Affected Product and Versions": "Pygments 1.5–2.7.3"
+}

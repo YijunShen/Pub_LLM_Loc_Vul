@@ -1,0 +1,7 @@
+{
+    "Affected Component": "LDAP external authentication mechanism",
+    "Attack Vector": "manipulated user search filter",
+    "Impact": "explore the LDAP tree",
+    "Root Cause": "improper input validation in User Search Filter property",
+    "Affected Product and Versions": "OneDev up to 4.4.1"
+}

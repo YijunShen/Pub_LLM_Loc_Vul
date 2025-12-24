@@ -1,0 +1,7 @@
+{
+    "Affected Component": "file upload validation",
+    "Attack Vector": "altering or stripping file extensions",
+    "Impact": "malicious files uploaded to server",
+    "Root Cause": "insufficient input validation of uploaded files",
+    "Affected Product and Versions": "Open Forms prior to 1.0.9 and 1.1.1"
+}

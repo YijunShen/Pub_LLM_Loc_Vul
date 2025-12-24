@@ -1,0 +1,7 @@
+{
+    "Affected Component": "the Elasticsearch Grok parser",
+    "Attack Vector": "malicious Grok query",
+    "Impact": "denial of service",
+    "Root Cause": "uncontrolled recursion",
+    "Affected Product and Versions": "Elasticsearch before 7.13.3 and 6.8.17"
+}

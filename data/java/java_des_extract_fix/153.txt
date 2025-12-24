@@ -1,0 +1,7 @@
+{
+    "Affected Component": "document saving mechanism",
+    "Attack Vector": "saving a document with SCRIPT right",
+    "Impact": "accessing API requiring programming right",
+    "Root Cause": "improper access control in document saving",
+    "Affected Product and Versions": "XWiki Platform versions before 13.0"
+}

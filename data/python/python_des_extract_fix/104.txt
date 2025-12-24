@@ -1,0 +1,7 @@
+{
+    "Affected Component": "top_dir_basenames function",
+    "Attack Vector": "crafted directory traversal input",
+    "Impact": "remote file deletion",
+    "Root Cause": "improper input validation in top_dir_basenames",
+    "Affected Product and Versions": "Warpinator before 1.6.0"
+}

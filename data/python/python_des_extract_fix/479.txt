@@ -1,0 +1,7 @@
+{
+    "Affected Component": null,
+    "Attack Vector": null,
+    "Impact": "execute commands on the server",
+    "Root Cause": null,
+    "Affected Product and Versions": "Discord Recon Server 0.0.1"
+}

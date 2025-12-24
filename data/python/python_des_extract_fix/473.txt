@@ -1,0 +1,7 @@
+{
+    "Affected Component": "app.py",
+    "Attack Vector": "crafted request",
+    "Impact": "cross-site scripting",
+    "Root Cause": "does not explicitly set the application/json content type",
+    "Affected Product and Versions": "Wikimedia Quarry analytics-quarry-web before 2020-12-15"
+}

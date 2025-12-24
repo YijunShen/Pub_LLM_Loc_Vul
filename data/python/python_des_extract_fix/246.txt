@@ -1,0 +1,7 @@
+{
+    "Affected Component": "hawk_invoke binary",
+    "Attack Vector": "executing an interactive shell via hawk_invoke",
+    "Impact": "escalation to root",
+    "Root Cause": "improper command restriction in setuid program",
+    "Affected Product and Versions": "ClusterLabs Hawk through 2.3.0-15"
+}

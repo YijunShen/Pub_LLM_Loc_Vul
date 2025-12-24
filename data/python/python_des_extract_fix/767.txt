@@ -1,0 +1,7 @@
+{
+    "Affected Component": null,
+    "Attack Vector": "maliciously crafted link",
+    "Impact": "redirect to a different website",
+    "Root Cause": null,
+    "Affected Product and Versions": "Jupyter Server before version 1.0.6"
+}

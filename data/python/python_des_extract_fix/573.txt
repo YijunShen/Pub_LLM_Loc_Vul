@@ -1,0 +1,7 @@
+{
+    "Affected Component": "request payload parsing for JSON in path operations using cookies for authentication",
+    "Attack Vector": "request with content type text/plain containing JSON data",
+    "Impact": "CSRF attack",
+    "Root Cause": "parsing request payload as JSON even with non-JSON content-type header like text/plain",
+    "Affected Product and Versions": "FastAPI versions lower than 0.65.2"
+}

@@ -1,0 +1,7 @@
+{
+    "Affected Component": "ProcessBuilder.start",
+    "Attack Vector": "NUL characters in strings",
+    "Impact": "command line argument injection",
+    "Root Cause": "missing check for NUL characters",
+    "Affected Product and Versions": "NuProcess 1.2.0–2.0.4"
+}

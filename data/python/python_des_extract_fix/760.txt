@@ -1,0 +1,7 @@
+{
+    "Affected Component": "server name handling",
+    "Attack Vector": "crafted server names",
+    "Impact": "unauthorized access to other users' default servers",
+    "Root Cause": "improper validation of server names",
+    "Affected Product and Versions": "jupyterhub-kubespawner before 0.12"
+}

@@ -1,0 +1,7 @@
+{
+    "Affected Component": "SVG diagram embedder",
+    "Attack Vector": "Embedded SVG in SVG diagram format",
+    "Impact": "stealing secrets, account hijacking, code execution",
+    "Root Cause": null,
+    "Affected Product and Versions": "plantuml/plantuml prior to 1.2022.4"
+}

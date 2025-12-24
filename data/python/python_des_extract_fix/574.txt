@@ -1,0 +1,7 @@
+{
+    "Affected Component": "timing the response time from the server when you are logging in",
+    "Attack Vector": "timing the response time from the server when logging in",
+    "Impact": "enumerate existing accounts",
+    "Root Cause": null,
+    "Affected Product and Versions": "Flask-AppBuilder <= 3.2.3"
+}

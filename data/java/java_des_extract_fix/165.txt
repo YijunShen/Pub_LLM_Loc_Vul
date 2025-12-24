@@ -1,0 +1,7 @@
+{
+    "Affected Component": "template engine",
+    "Attack Vector": "malicious code injection",
+    "Impact": "remote code execution",
+    "Root Cause": "input verification not done",
+    "Affected Product and Versions": "Ballcat Codegen prior to 1.0.0.beta.2"
+}

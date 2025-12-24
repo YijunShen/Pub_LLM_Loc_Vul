@@ -1,0 +1,7 @@
+{
+    "Affected Component": null,
+    "Attack Vector": null,
+    "Impact": "download files outside intended directory",
+    "Root Cause": null,
+    "Affected Product and Versions": "Mycodo prior to 8.12.7"
+}

@@ -1,0 +1,7 @@
+{
+    "Affected Component": "linuxbridge driver with ebtables-nft",
+    "Attack Vector": "carefully crafted packets",
+    "Impact": "denial of service or interception of traffic",
+    "Root Cause": null,
+    "Affected Product and Versions": "OpenStack Neutron before 16.4.1, 17.x before 17.1.3, and 18.0.0"
+}

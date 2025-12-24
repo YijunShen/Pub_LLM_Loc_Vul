@@ -1,0 +1,7 @@
+{
+    "Affected Component": "saved_model_cli tool",
+    "Attack Vector": "manual execution with malicious input",
+    "Impact": "open a reverse shell",
+    "Root Cause": "use of eval with unsafe argument",
+    "Affected Product and Versions": "TensorFlow prior to versions 2.9.0, 2.8.1, 2.7.2, and 2.6.4"
+}

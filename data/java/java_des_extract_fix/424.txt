@@ -1,0 +1,7 @@
+{
+    "Affected Component": null,
+    "Attack Vector": "specially-crafted YAML",
+    "Impact": "code execution",
+    "Root Cause": null,
+    "Affected Product and Versions": "Kubernetes Java Client library"
+}

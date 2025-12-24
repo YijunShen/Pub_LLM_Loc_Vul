@@ -1,0 +1,7 @@
+{
+    "Affected Component": "Id.toString(…) vs Id.compact(…)",
+    "Attack Vector": "arbitrary identifiers for media packages and elements",
+    "Impact": "file writing to arbitrary locations",
+    "Root Cause": "improper validation of identifiers",
+    "Affected Product and Versions": "Opencast before 7.6 and 8.1"
+}

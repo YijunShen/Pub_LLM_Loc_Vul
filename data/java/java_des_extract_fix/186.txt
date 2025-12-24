@@ -1,0 +1,7 @@
+{
+    "Affected Component": null,
+    "Attack Vector": "passing URLs for files from other organizations",
+    "Impact": "bypass organizational barriers",
+    "Root Cause": "improper access control",
+    "Affected Product and Versions": "Opencast prior to 10.14 and 11.7"
+}

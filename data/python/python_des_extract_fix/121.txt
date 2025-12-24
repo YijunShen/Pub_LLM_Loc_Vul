@@ -1,0 +1,7 @@
+{
+    "Affected Component": null,
+    "Attack Vector": null,
+    "Impact": null,
+    "Root Cause": null,
+    "Affected Product and Versions": "Pypi calibreweb prior to 0.6.16"
+}

@@ -1,0 +1,7 @@
+{
+    "Affected Component": "loop variable assignment",
+    "Attack Vector": "crafted loop iteration",
+    "Impact": "type overflow",
+    "Root Cause": "missing overflow check for loop variables",
+    "Affected Product and Versions": "Vyper prior to 0.3.8"
+}

@@ -1,0 +1,7 @@
+{
+    "Affected Component": "workers/extractor.py",
+    "Attack Vector": "deeply nested ZIP archive (ZIP bomb)",
+    "Impact": "denial of service",
+    "Root Cause": null,
+    "Affected Product and Versions": "Pandora 1.3.0"
+}

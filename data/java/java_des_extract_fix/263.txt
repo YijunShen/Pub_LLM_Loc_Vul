@@ -1,0 +1,7 @@
+{
+    "Affected Component": null,
+    "Attack Vector": "malicious or compromised authenticated agent",
+    "Impact": "exposure of symmetric key and potential decryption of secrets",
+    "Root Cause": "leak of symmetric key to authenticated agents",
+    "Affected Product and Versions": "GoCD versions prior to 21.1.0"
+}

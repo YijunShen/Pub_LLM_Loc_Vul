@@ -1,0 +1,7 @@
+{
+    "Affected Component": null,
+    "Attack Vector": null,
+    "Impact": "grants permissions even after they've been disabled.",
+    "Root Cause": null,
+    "Affected Product and Versions": "Jenkins Role-based Authorization Strategy Plugin up to 587.v2872c41fa_e51"
+}

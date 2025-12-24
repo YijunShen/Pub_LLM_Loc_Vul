@@ -1,0 +1,7 @@
+{
+    "Affected Component": null,
+    "Attack Vector": "using login action with directly specified templates",
+    "Impact": "exposure of document title, content, comments, and object properties",
+    "Root Cause": "improper rights checks before loading documents and allowing non-default templates",
+    "Affected Product and Versions": "XWiki Platform Old Core prior to 14.2 and 13.10.4"
+}

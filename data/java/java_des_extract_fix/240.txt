@@ -1,0 +1,7 @@
+{
+    "Affected Component": null,
+    "Attack Vector": "unauthenticated access to directory",
+    "Impact": "leak all project files",
+    "Root Cause": "exposure of files to unauthenticated users",
+    "Affected Product and Versions": "Onedev versions before 7.3.0"
+}

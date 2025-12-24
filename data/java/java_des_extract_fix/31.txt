@@ -1,0 +1,7 @@
+{
+    "Affected Component": "TransformerConfigurationException function in SecureWSConnector.java",
+    "Attack Vector": "manipulation leading to xml external entity reference",
+    "Impact": "problematic vulnerability",
+    "Root Cause": null,
+    "Affected Product and Versions": "bonitasoft bonita-connector-webservice up to 1.3.0"
+}

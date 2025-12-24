@@ -1,0 +1,7 @@
+{
+    "Affected Component": "YAML loader",
+    "Attack Vector": "unsafe YAML loading",
+    "Impact": "arbitrary code execution",
+    "Root Cause": "unsafe loading",
+    "Affected Product and Versions": "parlai versions below v1.1.0"
+}

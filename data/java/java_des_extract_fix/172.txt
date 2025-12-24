@@ -1,0 +1,7 @@
+{
+    "Affected Component": null,
+    "Attack Vector": "planting malicious JavaScript via a controlled GoCD Agent",
+    "Impact": "execution of malicious JavaScript",
+    "Root Cause": "improper sanitization of input in Job Reports",
+    "Affected Product and Versions": "ThoughtWorks GoCD before 21.3.0"
+}

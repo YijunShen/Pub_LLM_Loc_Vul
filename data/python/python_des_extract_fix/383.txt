@@ -1,0 +1,7 @@
+{
+    "Affected Component": null,
+    "Attack Vector": "malicious javascript",
+    "Impact": "UI redressing attack (clickjacking), disables history page",
+    "Root Cause": null,
+    "Affected Product and Versions": "kiwi null"
+}

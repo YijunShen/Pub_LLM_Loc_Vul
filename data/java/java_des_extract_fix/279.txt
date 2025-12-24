@@ -1,0 +1,7 @@
+{
+    "Affected Component": null,
+    "Attack Vector": "prepared statement with InputStream larger than 2k",
+    "Impact": "temporary file readable by other users",
+    "Root Cause": "use of shared temporary directory on Unix-like systems",
+    "Affected Product and Versions": "pgjdbc versions before 4.5.0 (for Java 1.7 and higher)"
+}

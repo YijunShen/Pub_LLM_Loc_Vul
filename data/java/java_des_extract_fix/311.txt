@@ -1,0 +1,7 @@
+{
+    "Affected Component": "function deployWar in WarRoller.java",
+    "Attack Vector": "remote",
+    "Impact": "path traversal",
+    "Root Cause": null,
+    "Affected Product and Versions": "drogatkin TJWS2 1.x"
+}

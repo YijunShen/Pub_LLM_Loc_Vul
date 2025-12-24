@@ -1,0 +1,7 @@
+{
+    "Affected Component": "Notes Handler",
+    "Attack Vector": "manipulation of the argument notes",
+    "Impact": "cross site scripting",
+    "Root Cause": "improper input validation",
+    "Affected Product and Versions": "OpenMRS Appointment Scheduling Module up to 1.16.x"
+}

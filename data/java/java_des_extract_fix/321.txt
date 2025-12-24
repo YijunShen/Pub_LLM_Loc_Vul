@@ -1,0 +1,7 @@
+{
+    "Affected Component": "TaskExplorer lookup queries",
+    "Attack Vector": "crafted SQL queries",
+    "Impact": null,
+    "Root Cause": null,
+    "Affected Product and Versions": "Spring Cloud Task 2.2.4.RELEASE and below"
+}

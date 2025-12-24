@@ -1,0 +1,7 @@
+{
+    "Affected Component": null,
+    "Attack Vector": "crafted X-Forwarded-For request",
+    "Impact": "execute arbitrary web scripts or HTML",
+    "Root Cause": null,
+    "Affected Product and Versions": "Jfinal CMS v5.1.0"
+}

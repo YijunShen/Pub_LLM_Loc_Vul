@@ -1,0 +1,7 @@
+{
+    "Affected Component": "Build endpoint parameters via InputSpec",
+    "Attack Vector": "injecting arbitrary Groovy code through job parameters",
+    "Impact": "arbitrary code execution",
+    "Root Cause": "improper input validation (lack of escaping special characters)",
+    "Affected Product and Versions": "OneDev before 4.0.3"
+}

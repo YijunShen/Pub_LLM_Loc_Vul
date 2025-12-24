@@ -1,0 +1,7 @@
+{
+    "Affected Component": null,
+    "Attack Vector": "malicious application sending arbitrary Intent",
+    "Impact": "read and write access to non-exported Content Providers",
+    "Root Cause": "unintentional reflection of Intent",
+    "Affected Product and Versions": "nextcloud news-android versions before 0.9.9.63"
+}

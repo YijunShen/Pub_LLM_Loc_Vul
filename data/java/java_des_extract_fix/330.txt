@@ -1,0 +1,7 @@
+{
+    "Affected Component":null,
+    "Attack Vector": "Bean validation message tampering",
+    "Impact": "pre-auth server side template injection",
+    "Root Cause": "improper input validation or interpolation",
+    "Affected Product and Versions": "OneDev before 4.0.3"
+}

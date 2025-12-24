@@ -1,0 +1,7 @@
+{
+    "Affected Component": null,
+    "Attack Vector": null,
+    "Impact": "privilege elevation",
+    "Root Cause": null,
+    "Affected Product and Versions": "Apache OpenMeetings 2.0.0–6.9.9"
+}

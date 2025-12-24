@@ -1,0 +1,7 @@
+{
+    "Affected Component": "ResponseParser function",
+    "Attack Vector": "manipulation",
+    "Impact": null,
+    "Root Cause": null,
+    "Affected Product and Versions": "gturri aXMLRPC up to 1.12.0"
+}

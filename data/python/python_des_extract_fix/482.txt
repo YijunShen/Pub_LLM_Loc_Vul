@@ -1,0 +1,7 @@
+{
+    "Affected Component": "random password lookup",
+    "Attack Vector": "template caching action for the same file",
+    "Impact": "passwords exposed",
+    "Root Cause": "no re-evaluation happens",
+    "Affected Product and Versions": "Ansible Engine before 2.9.6"
+}

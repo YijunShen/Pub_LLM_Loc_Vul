@@ -1,0 +1,7 @@
+{
+    "Affected Component": null,
+    "Attack Vector": "certain calls made over HTTP2",
+    "Impact": "denial of service",
+    "Root Cause": "flaw that tripped the client-side invocation timeout",
+    "Affected Product and Versions": "Undertow"
+}

@@ -1,0 +1,7 @@
+{
+    "Affected Component": "Flask send_file function usage",
+    "Attack Vector": "crafted request",
+    "Impact": "path traversal",
+    "Root Cause": "unsafe use of Flask send_file function",
+    "Affected Product and Versions": "cmusatyalab/opendiamond through 10.1.1"
+}

@@ -1,0 +1,7 @@
+{
+    "Affected Component": "HTML export feature",
+    "Attack Vector": "upload crafted HTML documents",
+    "Impact": "reading arbitrary files",
+    "Root Cause": null,
+    "Affected Product and Versions": "pretalx 2.3.1 before 2.3.2"
+}

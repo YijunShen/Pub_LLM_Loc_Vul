@@ -1,0 +1,7 @@
+{
+    "Affected Component": "proxy requests to other hosts, bypassing the `allowed_hosts` check",
+    "Attack Vector": "proxy requests to other hosts",
+    "Impact": "bypass allowed_hosts check",
+    "Root Cause": "lack of input validation",
+    "Affected Product and Versions": "Jupyter Server Proxy prior to 3.2.1"
+}

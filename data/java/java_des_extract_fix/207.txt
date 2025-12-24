@@ -1,0 +1,7 @@
+{
+    "Affected Component": "AJP 400 response handling",
+    "Attack Vector": "crafted AJP request triggering 400 response",
+    "Impact": "connection reuse failure",
+    "Root Cause": "improperly sending two response packets with reuse flag set",
+    "Affected Product and Versions": "JBoss EAP 7"
+}

@@ -1,0 +1,7 @@
+{
+    "Affected Component": null,
+    "Attack Vector": "crafted request to /publiccms/admin/ueditor with catchimage action",
+    "Impact": null,
+    "Root Cause": null,
+    "Affected Product and Versions": "PublicCMS before 4.0.202011.b"
+}

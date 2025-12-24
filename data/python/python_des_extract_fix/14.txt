@@ -1,0 +1,7 @@
+{
+    "Affected Component": "a regular expression",
+    "Attack Vector": "malicious web server response",
+    "Impact": "crash",
+    "Root Cause": "vulnerable regular expression",
+    "Affected Product and Versions": "mechanize prior to 0.4.6"
+}

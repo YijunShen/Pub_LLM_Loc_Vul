@@ -1,0 +1,7 @@
+{
+    "Affected Component": null,
+    "Attack Vector": null,
+    "Impact": "local information disclosure",
+    "Root Cause": "missing permission check",
+    "Affected Product and Versions": "Android 13"
+}

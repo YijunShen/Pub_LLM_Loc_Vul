@@ -1,0 +1,7 @@
+{
+    "Affected Component": null,
+    "Attack Vector": "crafted request parameters (e.g., oidc.endpoint.*, oidc.groups.mapping)",
+    "Impact": "bypass XWiki authentication, gain XWikiAdminGroup membership",
+    "Root Cause": "improper validation of request parameters for provider and group mapping",
+    "Affected Product and Versions": "XWiki OIDC prior to 1.29.1"
+}

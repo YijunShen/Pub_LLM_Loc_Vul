@@ -1,0 +1,7 @@
+{
+    "Affected Component": null,
+    "Attack Vector": null,
+    "Impact": null,
+    "Root Cause": null,
+    "Affected Product and Versions": "octoprint/octoprint prior to 1.8.0"
+}

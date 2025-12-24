@@ -1,0 +1,7 @@
+{
+    "Affected Component": null,
+    "Attack Vector": null,
+    "Impact": "leakage of sensitive table information",
+    "Root Cause": "improper exception handling",
+    "Affected Product and Versions": "Apache Ofbiz v17.12.01 to v17.12.07"
+}

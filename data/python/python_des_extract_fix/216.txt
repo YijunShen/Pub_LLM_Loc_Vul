@@ -1,0 +1,7 @@
+{
+    "Affected Component": "function sync_tree in hetero_decision_tree_guest.py",
+    "Attack Vector": "during the training process of machine learning joint modeling",
+    "Impact": "read sensitive information",
+    "Root Cause": null,
+    "Affected Product and Versions": "WeBank FATE 0.1–1.4.2"
+}

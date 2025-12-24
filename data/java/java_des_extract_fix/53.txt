@@ -1,0 +1,7 @@
+{
+    "Affected Component": "backup utility execution",
+    "Attack Vector": "misconfigured server with backups enabled and missing backup tools",
+    "Impact": "leakage of database credentials",
+    "Root Cause": "improper error handling in backup process",
+    "Affected Product and Versions": "GoCD 20.5.0 to below 23.1.0"
+}

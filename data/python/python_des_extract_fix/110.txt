@@ -1,0 +1,7 @@
+{
+    "Affected Component": "include file syntax in Snippets extension",
+    "Attack Vector": "crafted include file syntax with absolute or relative paths",
+    "Impact": "exposure of file content",
+    "Root Cause": "Directory Traversal vulnerability in get_snippet_path function",
+    "Affected Product and Versions": "PyMdown Extensions versions before 10.0"
+}

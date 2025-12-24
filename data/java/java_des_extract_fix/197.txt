@@ -1,0 +1,7 @@
+{
+    "Affected Component": null,
+    "Attack Vector": "crafted Velocity script with Script rights",
+    "Impact": "filesystem read or write operations",
+    "Root Cause": "not properly sandboxed against using Java File API",
+    "Affected Product and Versions": "APIs to evaluate content with Velocity 2.3 to prior to 12.6.7, 12.10.3, 13.0"
+}

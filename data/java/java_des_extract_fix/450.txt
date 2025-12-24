@@ -1,0 +1,7 @@
+{
+    "Affected Component": "cs/service/account/AutoCompleteGal.java",
+    "Attack Vector": "authenticated user request",
+    "Impact": "request any GAL account",
+    "Root Cause": "domain mismatch not enforced",
+    "Affected Product and Versions": "Zimbra zm-mailbox before 8.8.15.p8"
+}

@@ -1,0 +1,7 @@
+{
+    "Affected Component": "regular expression in PunktSentenceTokenizer, sent_tokenize and word_tokenize",
+    "Attack Vector": "specifically crafted long input",
+    "Impact": "significant amount of execution time (denial of service)",
+    "Root Cause": null,
+    "Affected Product and Versions": "NLTK prior to 3.6.5"
+}

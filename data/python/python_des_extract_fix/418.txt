@@ -1,0 +1,7 @@
+{
+    "Affected Component": "set the GITHUB_ACTIONS environment variable",
+    "Attack Vector": "setting GITHUB_ACTIONS environment variable to non-true value",
+    "Impact": "skip authentication checks",
+    "Root Cause": "improper handling of GITHUB_ACTIONS environment variable",
+    "Affected Product and Versions": "LiuOS 0.1.0 and prior"
+}

@@ -1,0 +1,7 @@
+{
+    "Affected Component": "room key acceptance mechanism",
+    "Attack Vector": "forwarded room key from homeserver",
+    "Impact": "insertion of questionable room keys",
+    "Root Cause": "lack of verification of room key sender",
+    "Affected Product and Versions": "matrix-nio prior to 0.20"
+}

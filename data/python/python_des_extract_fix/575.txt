@@ -1,0 +1,7 @@
+{
+    "Affected Component": "AccessControl module's security policies",
+    "Attack Vector": "overriding and extending the Formatter class in Script (Python) objects through the web",
+    "Impact": "remote code execution",
+    "Root Cause": "full access to the string module allowing access to unsafe Python libraries",
+    "Affected Product and Versions": "AccessControl 4.0–4.2, 5.0–5.1 on Python 3"
+}

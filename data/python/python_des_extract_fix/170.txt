@@ -1,0 +1,7 @@
+{
+    "Affected Component": "AbstractBasicAuthHandler class",
+    "Attack Vector": "specially crafted payload from malicious HTTP server",
+    "Impact": "denial of service",
+    "Root Cause": "flaw in regular expression handling",
+    "Affected Product and Versions": null
+}

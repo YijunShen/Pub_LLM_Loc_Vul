@@ -1,0 +1,7 @@
+{
+    "Affected Component": "function isFileOutsideDir",
+    "Attack Vector": "user input",
+    "Impact": "path traversal",
+    "Root Cause": "fails to sanitize the user input",
+    "Affected Product and Versions": "CureKit v1.0.1–v1.1.3"
+}

@@ -1,0 +1,7 @@
+{
+    "Affected Component": "function upload_user_data in source/daily_cron_jobs/methods_upload_user_stats.py",
+    "Attack Vector": null,
+    "Impact": null,
+    "Root Cause": null,
+    "Affected Product and Versions": "KBase Metrics"
+}

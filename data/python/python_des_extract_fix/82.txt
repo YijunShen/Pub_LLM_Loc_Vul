@@ -1,0 +1,7 @@
+{
+    "Affected Component": null,
+    "Attack Vector": "malicious URL with Javascript payloads",
+    "Impact": "cross-site scripting",
+    "Root Cause": "improper input sanitization or rendering of user input",
+    "Affected Product and Versions": "Streamlit 0.63.0–0.80.0"
+}

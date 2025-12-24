@@ -1,0 +1,7 @@
+{
+    "Affected Component": null,
+    "Attack Vector": "executing untrusted files in CWD",
+    "Impact": "run code as another user",
+    "Root Cause": "executing untrusted files in CWD",
+    "Affected Product and Versions": "Jupyter Core prior to 4.11.2"
+}

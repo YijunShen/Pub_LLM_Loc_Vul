@@ -1,0 +1,7 @@
+{
+    "Affected Component": "aiohttp.web_middlewares.normalize_path_middleware middleware",
+    "Attack Vector": "maliciously crafted link",
+    "Impact": "redirect the browser to a different website",
+    "Root Cause": "bug in the middleware",
+    "Affected Product and Versions": "aiohttp before 3.7.4"
+}

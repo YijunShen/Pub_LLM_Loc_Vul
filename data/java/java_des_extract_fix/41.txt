@@ -1,0 +1,7 @@
+{
+    "Affected Component": "launching browsers on Windows",
+    "Attack Vector": "inserting an arbitrary URL",
+    "Impact": "remote execution",
+    "Root Cause": null,
+    "Affected Product and Versions": "Jitsi before commit 8aa7be58522f4264078d54752aae5483bfd854b2"
+}

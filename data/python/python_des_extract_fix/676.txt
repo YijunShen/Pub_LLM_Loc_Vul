@@ -1,0 +1,7 @@
+{
+    "Affected Component": "specifying the `REDASH_COOKIE_SECRET` or `REDASH_SECRET_KEY` environment variables",
+    "Attack Vector": "using known default secret key",
+    "Impact": "session forgery",
+    "Root Cause": "use of default secret key across installations",
+    "Affected Product and Versions": "Redash 10.0.0 and prior"
+}

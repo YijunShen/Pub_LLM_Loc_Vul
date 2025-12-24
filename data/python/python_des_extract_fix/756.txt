@@ -1,0 +1,7 @@
+{
+    "Affected Component": null,
+    "Attack Vector": "authenticated request from a created project",
+    "Impact": "modify and delete members of another project, access all bills of another project",
+    "Root Cause": "insufficient access controls",
+    "Affected Product and Versions": "\"I hate money\" before 4.1.5"
+}

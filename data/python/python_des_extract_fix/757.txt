@@ -1,0 +1,7 @@
+{
+    "Affected Component": "project_configure endpoint",
+    "Attack Vector": "unsanitized input to Popen",
+    "Impact": "arbitrary command execution",
+    "Root Cause": "improper input sanitization",
+    "Affected Product and Versions": "Gerapy 0 to before 0.9.3"
+}

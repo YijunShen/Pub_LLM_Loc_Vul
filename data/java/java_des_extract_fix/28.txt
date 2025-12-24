@@ -1,0 +1,7 @@
+{
+    "Affected Component": "ZIP Handler",
+    "Attack Vector": "manipulation",
+    "Impact": "path traversal",
+    "Root Cause": null,
+    "Affected Product and Versions": "JATOS up to version 3.7.5-alpha"
+}

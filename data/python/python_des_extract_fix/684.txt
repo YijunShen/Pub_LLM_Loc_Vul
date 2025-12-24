@@ -1,0 +1,7 @@
+{
+    "Affected Component": "the MD5 hashing algorithm in the hashing file",
+    "Attack Vector": null,
+    "Impact": null,
+    "Root Cause": "use of MD5 hashing algorithm",
+    "Affected Product and Versions": "EnroCrypt prior to 1.1.4"
+}

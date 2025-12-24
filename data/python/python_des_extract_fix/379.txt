@@ -1,0 +1,7 @@
+{
+    "Affected Component": "paddle.audio.functional.get_window",
+    "Attack Vector": "user-supplied winstr",
+    "Impact": "arbitrary code execution",
+    "Root Cause": "calls eval on user input",
+    "Affected Product and Versions": "PaddlePaddle before 2.4"
+}

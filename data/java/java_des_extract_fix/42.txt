@@ -1,0 +1,7 @@
+{
+    "Affected Component": "the code: `return \"/\" + rest;` from `Utils.java`",
+    "Attack Vector": "crafted file path input",
+    "Impact": "exfiltration of any class path resource",
+    "Root Cause": "improper input sanitization of backslashes in user input",
+    "Affected Product and Versions": "Vert.x-Web (specific versions not mentioned)"
+}

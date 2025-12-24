@@ -1,0 +1,7 @@
+{
+    "Affected Component": null,
+    "Attack Vector": null,
+    "Impact": "Denial of Service",
+    "Root Cause": null,
+    "Affected Product and Versions": "GraphHopper 2.0 to before 2.4"
+}

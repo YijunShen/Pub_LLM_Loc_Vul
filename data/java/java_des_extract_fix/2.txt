@@ -1,0 +1,7 @@
+{
+    "Affected Component": "data source module with MySQL Connector/J",
+    "Attack Vector": "connecting a rogue MySQL server with allowLoadLocalInfile=true in JDBC parameter",
+    "Impact": "read arbitrary local files",
+    "Root Cause": "improper blacklisting of JDBC URL parameters",
+    "Affected Product and Versions": "Apache Linkis <=1.3.0"
+}

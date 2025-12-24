@@ -1,0 +1,7 @@
+{
+    "Affected Component": "GrantCredentialsPermissionActivity.java onCreate method",
+    "Attack Vector": "user interaction with overlay",
+    "Impact": "local escalation of privilege",
+    "Root Cause": "overlay attack vulnerability",
+    "Affected Product and Versions": "Android 8.0–11"
+}

@@ -1,0 +1,7 @@
+{
+    "Affected Component": "HTML export feature",
+    "Attack Vector": "crafted HTML export request",
+    "Impact": "arbitrary file overwriting",
+    "Root Cause": "improper path validation",
+    "Affected Product and Versions": "pretalx 2.3.1"
+}

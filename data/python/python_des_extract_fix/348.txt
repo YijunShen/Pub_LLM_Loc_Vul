@@ -1,0 +1,7 @@
+{
+    "Affected Component": "using `file:<location>` command and `<location>` is a web URL location (http, https)",
+    "Attack Vector": "web URL location (http, https) in <location>",
+    "Impact": "local file read",
+    "Root Cause": "improper handling of web URLs as file paths",
+    "Affected Product and Versions": "mangadex-downloader 1.3.0–1.7.2"
+}

@@ -1,0 +1,7 @@
+{
+    "Affected Component": null,
+    "Attack Vector": "specially crafted SpEL expression",
+    "Impact": "denial-of-service (DoS) condition",
+    "Root Cause": null,
+    "Affected Product and Versions": "Spring Framework 6.0.0-6.0.6, 5.3.0-5.3.25, 5.2.0.RELEASE-5.2.22.RELEASE, and older unsupported versions"
+}

@@ -1,0 +1,7 @@
+{
+    "Affected Component": "internal calls with default arguments",
+    "Attack Vector": "passing kwargs to internal functions",
+    "Impact": "typechecking bypass",
+    "Root Cause": "defaults added left-to-right instead of right-to-left",
+    "Affected Product and Versions": "Vyper prior to 0.3.8"
+}

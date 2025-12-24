@@ -1,0 +1,7 @@
+{
+    "Affected Component": "the file omod/src/main/java/org/openmrs/module/referenceapplication/page/controller/UserAppPageController.java ",
+    "Attack Vector": "manipulation of the argument AppId",
+    "Impact": "cross site scripting",
+    "Root Cause": "improper input validation",
+    "Affected Product and Versions": "OpenMRS openmrs-module-referenceapplication up to 2.11.x"
+}

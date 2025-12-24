@@ -1,0 +1,7 @@
+{
+    "Affected Component": null,
+    "Attack Vector": "crafted YAML input",
+    "Impact": "Denial of Service",
+    "Root Cause": "missing nested depth limitation for collections",
+    "Affected Product and Versions": "org.yaml:snakeyaml 0 to before 1.31"
+}

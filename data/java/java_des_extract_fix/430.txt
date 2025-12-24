@@ -1,0 +1,7 @@
+{
+    "Affected Component": null,
+    "Attack Vector": null,
+    "Impact": "extract secrets from the host machine",
+    "Root Cause": "allowing references to local file URLs without proper restrictions",
+    "Affected Product and Versions": "Opencast before 9.10 or 10.6"
+}

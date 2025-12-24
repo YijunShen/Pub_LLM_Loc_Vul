@@ -1,0 +1,7 @@
+{
+    "Affected Component": null,
+    "Attack Vector": "resource consumption",
+    "Impact": "denial of service (blocking server applications)",
+    "Root Cause": null,
+    "Affected Product and Versions": "OPC UA Legacy Java Stack before 6f176f2"
+}

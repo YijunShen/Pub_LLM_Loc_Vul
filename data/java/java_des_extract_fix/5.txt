@@ -1,0 +1,7 @@
+{
+    "Affected Component": null,
+    "Attack Vector": "the previous session on login",
+    "Impact": null,
+    "Root Cause": "failure to invalidate previous session on login",
+    "Affected Product and Versions": "Jenkins Bitbucket OAuth Plugin 0.12 and earlier"
+}

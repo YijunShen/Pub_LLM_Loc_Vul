@@ -1,0 +1,7 @@
+{
+    "Affected Component": "refresh token mechanism",
+    "Attack Vector": null,
+    "Impact": null,
+    "Root Cause": "indefinite validity of refresh token",
+    "Affected Product and Versions": "vantage6 up to version 3.7.x"
+}

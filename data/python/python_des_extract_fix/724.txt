@@ -1,0 +1,7 @@
+{
+    "Affected Component": "file names or file path handling",
+    "Attack Vector": "crafted Gradio link with specific file paths",
+    "Impact": "unauthorized file access",
+    "Root Cause": "improper restriction of file paths",
+    "Affected Product and Versions": "Gradio versions prior to 2.5.0"
+}

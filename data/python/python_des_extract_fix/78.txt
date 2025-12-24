@@ -1,0 +1,7 @@
+{
+    "Affected Component": null,
+    "Attack Vector": "'\\..\\filename' input",
+    "Impact": null,
+    "Root Cause": null,
+    "Affected Product and Versions": "mlflow prior to 2.2.1"
+}

@@ -1,0 +1,7 @@
+{
+    "Affected Component": "addAllPermissions in PermissionManagerService.java",
+    "Attack Vector": "upgrading major Android versions",
+    "Impact": "local escalation of privilege",
+    "Root Cause": "possible permissions bypass",
+    "Affected Product and Versions": "Android 8.0–11"
+}

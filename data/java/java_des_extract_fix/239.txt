@@ -1,0 +1,7 @@
+{
+    "Affected Component": "file upload handler",
+    "Attack Vector": "uploading a crafted JAR file",
+    "Impact": "access restricted files and directories",
+    "Root Cause": null,
+    "Affected Product and Versions": "Onedev v7.4.14"
+}

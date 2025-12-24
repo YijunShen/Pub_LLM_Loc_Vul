@@ -1,0 +1,7 @@
+{
+    "Affected Component": null,
+    "Attack Vector": "crafted HTTP request",
+    "Impact": "unpredictable behavior",
+    "Root Cause": "does not terminate HTTP requests header context",
+    "Affected Product and Versions": "Quarkus 2.10.x"
+}

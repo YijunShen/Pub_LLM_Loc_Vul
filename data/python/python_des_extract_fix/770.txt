@@ -1,0 +1,7 @@
+{
+    "Affected Component": "Mod module",
+    "Attack Vector": "bypass hierarchy checks when application is in a specific condition",
+    "Impact": "perform destructive actions within the guild",
+    "Root Cause": null,
+    "Affected Product and Versions": "Red Discord Bot before version 3.4.1"
+}

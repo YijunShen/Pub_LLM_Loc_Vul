@@ -1,0 +1,7 @@
+{
+    "Affected Component": "GET request handlers for /images and /initfilter/scripts",
+    "Attack Vector": "crafted GET requests",
+    "Impact": "access any file on the system",
+    "Root Cause": "failure to sanitize request",
+    "Affected Product and Versions": "OpenMRS Core 2.1.0–2.1.4, 2.2.0–2.2.0, 2.3.0–2.3.4, 2.4.0–2.4.4, 2.5.0–2.5.2"
+}

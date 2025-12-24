@@ -1,0 +1,7 @@
+{
+    "Affected Component": "logview endpoint",
+    "Attack Vector": "crafted HTTP request with base parameter",
+    "Impact": "access files outside logging directory",
+    "Root Cause": "insufficient checking of base folder parameter",
+    "Affected Product and Versions": "eu.hinsch:spring-boot-actuator-logview before 0.2.13"
+}

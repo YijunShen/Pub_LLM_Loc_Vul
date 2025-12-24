@@ -1,0 +1,7 @@
+{
+    "Affected Component": "the function extractZip of the file src/main/java/bspkrs/mmv/RemoteZipHandler.java",
+    "Attack Vector": "remote attack",
+    "Impact": "path traversal",
+    "Root Cause": null,
+    "Affected Product and Versions": null
+}

@@ -1,0 +1,7 @@
+{
+    "Affected Component": null,
+    "Attack Vector": "uploaded QTI content packages as ZIP files",
+    "Impact": "insert files into arbitrary locations in the filesystem",
+    "Root Cause": "does not sufficiently check the paths of files contained within ZIP files",
+    "Affected Product and Versions": "QTIWorks prior to version 1.0-beta15"
+}

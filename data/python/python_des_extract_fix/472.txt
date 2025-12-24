@@ -1,0 +1,7 @@
+{
+    "Affected Component": "sub-option feature of the basic.py module",
+    "Attack Vector": "using the sub-option feature",
+    "Impact": "obtain sensitive information",
+    "Root Cause": "sensitive info not masked by default and not protected by no_log feature",
+    "Affected Product and Versions": "Ansible Engine 2.9.18"
+}

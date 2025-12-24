@@ -1,0 +1,7 @@
+{
+    "Affected Component": "write that password to the world-readable log file /var/log/cloud-init-output.log",
+    "Attack Vector": "reading the log file",
+    "Impact": "unauthorized login as another user",
+    "Root Cause": "writing password to world-readable log file",
+    "Affected Product and Versions": "cloud-init before 21.2"
+}

@@ -1,0 +1,7 @@
+{
+    "Affected Component": "Flask send_file function",
+    "Attack Vector": "unsafe use of Flask send_file",
+    "Impact": null,
+    "Root Cause": "unsafe use of Flask send_file function",
+    "Affected Product and Versions": "ganga-devs/ganga before 8.5.10"
+}

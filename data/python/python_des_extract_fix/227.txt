@@ -1,0 +1,7 @@
+{
+    "Affected Component": null,
+    "Attack Vector": "crafted API call",
+    "Impact": "grants organization administrator privileges",
+    "Root Cause": "incorrect authorization check",
+    "Affected Product and Versions": "Zulip Server 5.4 and earlier"
+}

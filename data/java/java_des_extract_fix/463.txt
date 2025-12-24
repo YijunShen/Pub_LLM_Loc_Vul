@@ -1,0 +1,7 @@
+{
+    "Affected Component": "AESGCMOnCtrCipherState.encryptWithAd()",
+    "Attack Vector": null,
+    "Impact": null,
+    "Root Cause": null,
+    "Affected Product and Versions": "Noise-Java through 2020-08-27"
+}

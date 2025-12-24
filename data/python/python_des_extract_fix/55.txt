@@ -1,0 +1,7 @@
+{
+    "Affected Component": null,
+    "Attack Vector": null,
+    "Impact": "change another user's settings or alter the database",
+    "Root Cause": null,
+    "Affected Product and Versions": "pgAdmin 4 versions prior to v6.19"
+}

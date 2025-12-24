@@ -1,0 +1,7 @@
+{
+    "Affected Component": null,
+    "Attack Vector": "submitting negative quantity via API or Controller",
+    "Impact": "incorrect shopping cart and order total",
+    "Root Cause": "not adequately validated negative quantity",
+    "Affected Product and Versions": "Shopizer before 2.11.0"
+}

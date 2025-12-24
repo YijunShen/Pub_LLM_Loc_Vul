@@ -1,0 +1,7 @@
+{
+    "Affected Component": "Revocation Notifier uses a fixed /tmp path for UNIX domain socket",
+    "Attack Vector": "use of fixed /tmp path by unprivileged users",
+    "Impact": "prohibit keylime operations",
+    "Root Cause": "fixed path for UNIX domain socket",
+    "Affected Product and Versions": "Keylime before 6.3.0"
+}

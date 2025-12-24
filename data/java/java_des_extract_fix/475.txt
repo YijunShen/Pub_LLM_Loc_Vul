@@ -1,0 +1,7 @@
+{
+    "Affected Component": "zip stream handler flow",
+    "Attack Vector": "crafted zip stream",
+    "Impact": "writing of files to arbitrary locations",
+    "Root Cause": "improper input validation",
+    "Affected Product and Versions": "Packwood MPXJ before 8.3.5"
+}

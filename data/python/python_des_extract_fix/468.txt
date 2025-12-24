@@ -1,0 +1,7 @@
+{
+    "Affected Component": "login form and login functionality",
+    "Attack Vector": "maliciously crafted link",
+    "Impact": "redirect the browser to a different website",
+    "Root Cause": null,
+    "Affected Product and Versions": "Products.PluggableAuthService before version 2.6.0"
+}

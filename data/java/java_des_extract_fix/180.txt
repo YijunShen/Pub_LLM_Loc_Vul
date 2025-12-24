@@ -1,0 +1,7 @@
+{
+    "Affected Component": "SpEL expression parser",
+    "Attack Vector": "specially crafted SpEL expression",
+    "Impact": "denial of service",
+    "Root Cause": null,
+    "Affected Product and Versions": "Spring Framework 5.3.0–5.3.16 and older unsupported versions"
+}

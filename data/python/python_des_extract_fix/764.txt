@@ -1,0 +1,7 @@
+{
+    "Affected Component": "null",
+    "Attack Vector": "crafted GET request",
+    "Impact": "information disclosure, authentication circumvention, restriction bypass",
+    "Root Cause": "improper path validation",
+    "Affected Product and Versions": "xmpp-http-upload before 0.4.0"
+}

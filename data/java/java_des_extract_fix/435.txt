@@ -1,0 +1,7 @@
+{
+    "Affected Component": null,
+    "Attack Vector": null,
+    "Impact": "create directory structures and write files anywhere on the target system",
+    "Root Cause": "improper input validation",
+    "Affected Product and Versions": "OpenOlat prior to 15.5.12 and 16.0.5"
+}

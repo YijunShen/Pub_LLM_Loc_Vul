@@ -1,0 +1,7 @@
+{
+    "Affected Component": null,
+    "Attack Vector": "malicious branch name configuration",
+    "Impact": "remote code execution",
+    "Root Cause": "command injection weakness",
+    "Affected Product and Versions": "GoCD prior to 22.1.0"
+}

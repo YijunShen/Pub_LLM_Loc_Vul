@@ -1,0 +1,7 @@
+{
+    "Affected Component": null,
+    "Attack Vector": "force invocation of out-of-memory process",
+    "Impact": "denial of service",
+    "Root Cause": "improper memory freeing",
+    "Affected Product and Versions": "JSS null"
+}

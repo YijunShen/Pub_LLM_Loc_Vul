@@ -1,0 +1,7 @@
+{
+    "Affected Component": "SHL, SHR, and SAR operations implementation",
+    "Attack Vector": "smart contracts with shift operations between approximately 2 billion and 4 billion bits",
+    "Impact": "failure to execute and validate smart contracts, potential network fork or block acceptance issues",
+    "Root Cause": "changes in implementation introducing signed type coercion error for negative 32-bit integer values",
+    "Affected Product and Versions": "Besu 21.10.0–21.10.1"
+}

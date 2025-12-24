@@ -1,0 +1,7 @@
+{
+    "Affected Component": "ClassLoaderTheme and ClasspathThemeResourceProviderFactory",
+    "Attack Vector": "sending requests for theme resources with a relative path",
+    "Impact": "reading any file available as a resource to the classloader",
+    "Root Cause": null,
+    "Affected Product and Versions": null
+}

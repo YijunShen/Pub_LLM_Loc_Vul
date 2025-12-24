@@ -1,0 +1,7 @@
+{
+    "Affected Component": "tf.function API",
+    "Attack Vector": "loading a model with mutually recursive functions and calling a recursive tf.function",
+    "Impact": "denial of service",
+    "Root Cause": "using a non-reentrant Lock Python object",
+    "Affected Product and Versions": "TensorFlow 2.4.4, 2.5.2, 2.6.1, and versions before 2.7.0"
+}

@@ -1,0 +1,7 @@
+{
+    "Affected Component": "RedirectAgent and BrowserLikeRedirectAgent functions",
+    "Attack Vector": "following cross-origin redirects",
+    "Impact": "exposure of cookies and authorization headers",
+    "Root Cause": null,
+    "Affected Product and Versions": "twisted (affected versions not specified)"
+}

@@ -1,0 +1,7 @@
+{
+    "Affected Component": "isURLInPortal method",
+    "Attack Vector": "crafted URL without slashes",
+    "Impact": "redirect to external site",
+    "Root Cause": "improper URL validation",
+    "Affected Product and Versions": "Products.isurlinportal prior to 1.2.0"
+}

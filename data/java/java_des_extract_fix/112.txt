@@ -1,0 +1,7 @@
+{
+    "Affected Component": null,
+    "Attack Vector": "user supplied web pages with malicious content",
+    "Impact": "denial of service (DoS)",
+    "Root Cause": "stack overflow",
+    "Affected Product and Versions": "HtmlUnit before 2.70.0"
+}

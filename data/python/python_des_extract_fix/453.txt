@@ -1,0 +1,7 @@
+{
+    "Affected Component": "config.py",
+    "Attack Vector": "YAML deserialization",
+    "Impact": "code execution",
+    "Root Cause": "not using SafeLoader and safe_load",
+    "Affected Product and Versions": "pystemon before 2021-02-13"
+}

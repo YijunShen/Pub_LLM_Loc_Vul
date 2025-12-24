@@ -1,0 +1,7 @@
+{
+    "Affected Component": "log reporting for schema failures",
+    "Attack Vector": "access to world readable logs",
+    "Impact": "exposure of sensitive data including hashed passwords",
+    "Root Cause": "improper handling of schema failures",
+    "Affected Product and Versions": "cloud-init before 22.3"
+}

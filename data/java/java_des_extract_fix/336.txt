@@ -1,0 +1,7 @@
+{
+    "Affected Component": "checkCallerIsSystemOr in CompanionDeviceManagerService.java",
+    "Attack Vector": "local user interaction",
+    "Impact": "local escalation of privilege, access to nearby Bluetooth device MAC addresses",
+    "Root Cause": "permissions bypass",
+    "Affected Product and Versions": "Android 8.0–11"
+}

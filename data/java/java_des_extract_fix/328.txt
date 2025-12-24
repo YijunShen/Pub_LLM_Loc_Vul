@@ -1,0 +1,7 @@
+{
+    "Affected Component": "AttachmentUploadServlet",
+    "Attack Vector": "crafted Attachment-Support header",
+    "Impact": "pre-auth remote code execution",
+    "Root Cause": "deserialization of untrusted data without authentication or authorization checks",
+    "Affected Product and Versions": "OneDev before 4.0.3"
+}

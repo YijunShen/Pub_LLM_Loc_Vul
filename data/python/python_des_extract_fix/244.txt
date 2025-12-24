@@ -1,0 +1,7 @@
+{
+    "Affected Component": "utils module, where YAML files are loaded via yaml.load() instead of yaml.safe_load()",
+    "Attack Vector": "untrusted YAML files",
+    "Impact": "remote code execution, denial of service, impact to confidentiality and integrity",
+    "Root Cause": "use of yaml.load() instead of yaml.safe_load()",
+    "Affected Product and Versions": "NVFLARE prior to 2.1.2"
+}

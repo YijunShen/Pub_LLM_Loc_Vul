@@ -1,0 +1,7 @@
+{
+    "Affected Component": "StaticFileHandler and Tornado rule for password.txt access",
+    "Attack Vector": "bypassing access restrictions to password.txt",
+    "Impact": "unauthorized access to password.txt and authentication cookie generation",
+    "Root Cause": "improper restriction of access to password.txt and use of password hash as cookie secret",
+    "Affected Product and Versions": "patrickfuller camp up to commit bbd53a256ed70e79bd8758080936afbf6d738767"
+}

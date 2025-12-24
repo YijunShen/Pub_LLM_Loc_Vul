@@ -1,0 +1,7 @@
+{
+    "Affected Component": "spaces in temporary pathnames",
+    "Attack Vector": "crafted temporary pathname with spaces",
+    "Impact": "file deletion",
+    "Root Cause": "mishandling of spaces in temporary pathnames",
+    "Affected Product and Versions": "Pillow before 9.0.1"
+}

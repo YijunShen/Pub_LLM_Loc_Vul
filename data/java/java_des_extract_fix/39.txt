@@ -1,0 +1,7 @@
+{
+    "Affected Component": null,
+    "Attack Vector": null,
+    "Impact": "use of implicit intent for sensitive communication",
+    "Root Cause": null,
+    "Affected Product and Versions": "CodenameOne 7.0.70"
+}

@@ -1,0 +1,7 @@
+{
+    "Affected Component": "multipart form data parser",
+    "Attack Vector": "crafted multipart data",
+    "Impact": "high resource usage, denial of service",
+    "Root Cause": "parsing an unlimited number of parts without limits",
+    "Affected Product and Versions": "Werkzeug prior to 2.2.3"
+}

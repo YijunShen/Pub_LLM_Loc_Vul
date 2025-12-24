@@ -1,0 +1,7 @@
+{
+    "Affected Component": "endpoint authorize_and_redirect/",
+    "Attack Vector": null,
+    "Impact": null,
+    "Root Cause": null,
+    "Affected Product and Versions": "posthog/posthog prior to 1.34.1"
+}

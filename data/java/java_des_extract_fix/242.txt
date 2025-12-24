@@ -1,0 +1,7 @@
+{
+    "Affected Component": "Docker-based job executors",
+    "Attack Vector": "mounting Docker socket into Docker steps via CI/CD job definition",
+    "Impact": "control Docker daemon, break out of containers, gain root privileges, potentially take over build infrastructure",
+    "Root Cause": "mounting Docker socket into each Docker step",
+    "Affected Product and Versions": "Onedev versions before 7.3.0"
+}

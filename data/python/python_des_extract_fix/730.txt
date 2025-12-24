@@ -1,0 +1,7 @@
+{
+    "Affected Component": "new account registration flow",
+    "Attack Vector": "submitting an expired confirmation key",
+    "Impact": "unauthorized account registration",
+    "Root Cause": "validation not happening in /accounts/register/ endpoint",
+    "Affected Product and Versions": "Zulip versions before 4.8"
+}

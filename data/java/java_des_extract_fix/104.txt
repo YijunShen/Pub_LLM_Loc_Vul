@@ -1,0 +1,7 @@
+{
+    "Affected Component": "RSS macro",
+    "Attack Vector": "malicious RSS feed content",
+    "Impact": "arbitrary actions execution, privilege escalation, remote code execution, information disclosure, modifying or deleting content, sabotaging the wiki",
+    "Root Cause": "content of feed items included without cleaning in HTML output",
+    "Affected Product and Versions": "XWiki versions before 14.6 RC1"
+}

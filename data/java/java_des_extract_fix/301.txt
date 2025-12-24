@@ -1,0 +1,7 @@
+{
+    "Affected Component": "unZipIt function in src/main/java/widoco/WidocoUtils.java",
+    "Attack Vector": "local host manipulation",
+    "Impact": "path traversal",
+    "Root Cause": null,
+    "Affected Product and Versions": "Widoco (versions not specified)"
+}

@@ -1,0 +1,7 @@
+{
+    "Affected Component": "ZIP File Handler",
+    "Attack Vector": "manipulation of ZIP file",
+    "Impact": "path traversal",
+    "Root Cause": "improper input validation in handleExtract function",
+    "Affected Product and Versions": "Calsign APDE versions before 0.5.2-pre2-alpha"
+}

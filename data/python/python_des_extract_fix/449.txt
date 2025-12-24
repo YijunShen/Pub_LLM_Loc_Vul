@@ -1,0 +1,7 @@
+{
+    "Affected Component": "RSA decryption API",
+    "Attack Vector": "timed processing of valid PKCS#1 v1.5 ciphertext",
+    "Impact": null,
+    "Root Cause": null,
+    "Affected Product and Versions": "python-cryptography 3.2"
+}

@@ -1,0 +1,7 @@
+{
+    "Affected Component": null,
+    "Attack Vector": null,
+    "Impact": null,
+    "Root Cause": "use of a weak cryptographic algorithm (RSA/ECB/PKCS1Padding)",
+    "Affected Product and Versions": "Rucky release builds 2.2 and earlier, nightly builds 425 and earlier"
+}

@@ -1,0 +1,7 @@
+{
+    "Affected Component": null,
+    "Attack Vector": null,
+    "Impact": "inject malicious code into ballerina executables",
+    "Root Cause": "did not make use of TLS and certificate checking was ignored",
+    "Affected Product and Versions": "Ballerina 1.2.x and SL releases up to alpha 3"
+}

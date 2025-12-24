@@ -1,0 +1,7 @@
+{
+    "Affected Component": null,
+    "Attack Vector": "untrusted code access",
+    "Impact": "unlimited access to UnsafeAccessor",
+    "Root Cause": "improper access control when AccessLimiter is set",
+    "Affected Product and Versions": "UnsafeAccessor 1.4.0–1.6.9"
+}

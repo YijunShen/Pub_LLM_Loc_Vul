@@ -1,0 +1,7 @@
+{
+    "Affected Component": "header validation regular expression",
+    "Attack Vector": "request with invalid header containing specific characters",
+    "Impact": "100% CPU usage and service unavailability",
+    "Root Cause": "catastrophic backtracking in regular expression due to improper input handling",
+    "Affected Product and Versions": "Waitress 1.4.2"
+}

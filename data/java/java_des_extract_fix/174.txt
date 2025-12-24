@@ -1,0 +1,7 @@
+{
+    "Affected Component": null,
+    "Attack Vector": "malicious file upload by compromised agent",
+    "Impact": "unauthorized file placement",
+    "Root Cause": "insufficient access control or directory restriction",
+    "Affected Product and Versions": "ThoughtWorks GoCD before 21.3.0"
+}

@@ -1,0 +1,7 @@
+{
+    "Affected Component": "map constructors",
+    "Attack Vector": "define and run sandboxed scripts",
+    "Impact": "execute arbitrary code",
+    "Root Cause": "sandbox bypass vulnerability",
+    "Affected Product and Versions": "Jenkins Script Security Plugin 1228.vd93135a_2fb_25 and earlier"
+}

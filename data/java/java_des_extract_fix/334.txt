@@ -1,0 +1,7 @@
+{
+    "Affected Component": "onCreate of SlicePermissionActivity.java",
+    "Attack Vector": "user interaction",
+    "Impact": "local information disclosure",
+    "Root Cause": "improper input validation",
+    "Affected Product and Versions": "Android 9-11"
+}

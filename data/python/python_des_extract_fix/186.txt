@@ -1,0 +1,7 @@
+{
+    "Affected Component": "bytestring comparison",
+    "Attack Vector": "crafted bytestrings with dirty bytes or trailing null bytes",
+    "Impact": "incorrect comparison results",
+    "Root Cause": "no length comparison and presence of dirty bytes",
+    "Affected Product and Versions": "Vyper 0.3.1 and prior"
+}

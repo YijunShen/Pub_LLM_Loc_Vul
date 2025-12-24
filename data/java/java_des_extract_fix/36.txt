@@ -1,0 +1,7 @@
+{
+    "Affected Component": "LdapIdentityBackend",
+    "Attack Vector": null,
+    "Impact": null,
+    "Root Cause": null,
+    "Affected Product and Versions": "Apache Kerby before 2.0.3"
+}

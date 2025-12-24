@@ -1,0 +1,7 @@
+{
+    "Affected Component": "direct-grant authenticator",
+    "Attack Vector": "expired certificate",
+    "Impact": "data confidentiality and integrity compromise",
+    "Root Cause": "missing time stamp validations",
+    "Affected Product and Versions": "keycloak 11.0.3–12.0.0"
+}

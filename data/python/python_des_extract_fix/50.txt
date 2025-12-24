@@ -1,0 +1,7 @@
+{
+    "Affected Component": "User Information Handler",
+    "Attack Vector": null,
+    "Impact": "information disclosure",
+    "Root Cause": null,
+    "Affected Product and Versions": "paxswill EVE Ship Replacement Program 0.12.11"
+}

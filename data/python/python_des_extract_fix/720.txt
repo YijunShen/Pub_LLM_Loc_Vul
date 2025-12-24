@@ -1,0 +1,7 @@
+{
+    "Affected Component": null,
+    "Attack Vector": null,
+    "Impact": "remote code execution",
+    "Root Cause": null,
+    "Affected Product and Versions": "Gerapy prior to version 0.9.8"
+}

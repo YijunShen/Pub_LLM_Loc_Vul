@@ -1,0 +1,7 @@
+{
+    "Affected Component": null,
+    "Attack Vector": null,
+    "Impact": "guess a security token",
+    "Root Cause": "non-constant-time comparison",
+    "Affected Product and Versions": "com.vaadin:flow-server 3.0.0–5.0.3, com.vaadin:fusion-endpoint 6.0.0"
+}

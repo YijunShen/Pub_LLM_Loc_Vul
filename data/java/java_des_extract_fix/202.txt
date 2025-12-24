@@ -1,0 +1,7 @@
+{
+    "Affected Component": null,
+    "Attack Vector": "crafted API request by logged-in user",
+    "Impact": "read, edit, and delete data in the database",
+    "Root Cause": "improper input validation",
+    "Affected Product and Versions": "DHIS2 versions prior to 2.36.10.1 and 2.37.6.1"
+}

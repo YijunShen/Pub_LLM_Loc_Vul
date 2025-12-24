@@ -1,0 +1,7 @@
+{
+    "Affected Component": null,
+    "Attack Vector": "failing handshakes",
+    "Impact": "permanently dropping records",
+    "Root Cause": "failing handshakes don't cleanup counters for throttling",
+    "Affected Product and Versions": "Eclipse Californium prior to 3.7.0 and 2.7.4"
+}

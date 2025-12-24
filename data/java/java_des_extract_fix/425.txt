@@ -1,0 +1,7 @@
+{
+    "Affected Component": null,
+    "Attack Vector": "untrusted data input",
+    "Impact": null,
+    "Root Cause": "default SnakeYaml constructor allows any data to be parsed",
+    "Affected Product and Versions": "cwlviewer prior to 1.3.1"
+}

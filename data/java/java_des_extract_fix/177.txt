@@ -1,0 +1,7 @@
+{
+    "Affected Component": null,
+    "Attack Vector": "user-provided JNDI names",
+    "Impact": "arbitrary code execution",
+    "Root Cause": "unchecked JNDI lookups",
+    "Affected Product and Versions": "GeoTools before 26.4, 25.6, and 24.6"
+}

@@ -1,0 +1,7 @@
+{
+    "Affected Component": null,
+    "Attack Vector": "untrusted data in request body",
+    "Impact": "pre-auth remote code execution",
+    "Root Cause": "lack of authentication or authorization checks",
+    "Affected Product and Versions": "OneDev before 4.0.3"
+}

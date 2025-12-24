@@ -1,0 +1,7 @@
+{
+    "Affected Component": "settings modification feature",
+    "Attack Vector": null,
+    "Impact": "modification of settings",
+    "Root Cause": null,
+    "Affected Product and Versions": "Cobbler before 3.3.0"
+}

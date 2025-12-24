@@ -1,0 +1,7 @@
+{
+    "Affected Component": null,
+    "Attack Vector": "malicious LTI tool submitting scores with arbitrary resource_link_id",
+    "Impact": "loss of integrity for LTI XBlock grades",
+    "Root Cause": "missing authorization check when processing resource_link_id field",
+    "Affected Product and Versions": "LTI Consumer XBlock 7.0.0 to 7.2.2"
+}

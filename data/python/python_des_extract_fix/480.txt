@@ -1,0 +1,7 @@
+{
+    "Affected Component": "private voice channel management",
+    "Attack Vector": "joining a private VC",
+    "Impact": "manage channel permissions acquisition, channel modification or deletion",
+    "Root Cause": "improper permission handling",
+    "Affected Product and Versions": "Roomer cog versions before 1.0.1"
+}

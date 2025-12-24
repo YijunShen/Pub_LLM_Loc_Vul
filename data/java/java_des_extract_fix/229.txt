@@ -1,0 +1,7 @@
+{
+    "Affected Component": "JSPUI controlled vocabulary servlet",
+    "Attack Vector": "crafted malicious URL",
+    "Impact": "redirect to attacker's site",
+    "Root Cause": null,
+    "Affected Product and Versions": "DSpace dspace-jspui versions before 5.11 and 6.4"
+}

@@ -1,0 +1,7 @@
+{
+    "Affected Component": null,
+    "Attack Vector": "malicious link clicked by victim",
+    "Impact": "change backup configurations or execute system commands",
+    "Root Cause": "missing CSRF protection",
+    "Affected Product and Versions": "GoCD 19.6.0–21.1.0"
+}

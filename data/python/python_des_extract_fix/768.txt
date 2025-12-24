@@ -1,0 +1,7 @@
+{
+    "Affected Component": "verification process",
+    "Attack Vector": "the verification process to log into someone else's account on any site that uses ScratchVerifier for logins",
+    "Impact": "hijack the verification process to log into someone else's account on any site",
+    "Root Cause": "generation of same verification code for concurrent login attempts",
+    "Affected Product and Versions": "ScratchVerifier before commit a603769"
+}

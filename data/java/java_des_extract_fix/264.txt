@@ -1,0 +1,7 @@
+{
+    "Affected Component": null,
+    "Attack Vector": "crafted log message",
+    "Impact": "bypass raid and webhook protections, spamming, mass advertisements",
+    "Root Cause": null,
+    "Affected Product and Versions": "Ree6 up to version 1.9.8"
+}

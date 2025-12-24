@@ -1,0 +1,7 @@
+{
+    "Affected Component": "password change functionality",
+    "Attack Vector": "guessing simple passwords",
+    "Impact": "unauthorized account access",
+    "Root Cause": "weak password requirements allowing simple passwords",
+    "Affected Product and Versions": "Apache InLong 1.1.0–1.6.0"
+}

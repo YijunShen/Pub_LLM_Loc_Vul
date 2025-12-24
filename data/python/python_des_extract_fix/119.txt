@@ -1,0 +1,7 @@
+{
+    "Affected Component": "session cookie handling",
+    "Attack Vector": "caching proxy interaction",
+    "Impact": "session cookie leakage",
+    "Root Cause": "improper Vary header setting during session refresh",
+    "Affected Product and Versions": "Flask versions before 2.3.2 and 2.2.5"
+}

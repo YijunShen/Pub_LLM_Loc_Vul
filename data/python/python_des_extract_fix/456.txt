@@ -1,0 +1,7 @@
+{
+    "Affected Component": "package name processing in application manifest",
+    "Attack Vector": "malicious package name",
+    "Impact": "arbitrary code execution, sensitive data read or modification",
+    "Root Cause": "improper input validation of package name",
+    "Affected Product and Versions": "APKLeaks prior to v2.0.3"
+}

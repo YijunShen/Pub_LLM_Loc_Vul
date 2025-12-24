@@ -1,0 +1,7 @@
+{
+    "Affected Component": "using `tarfile.extractall()`",
+    "Attack Vector": "remotely retrieved tarball",
+    "Impact": "overwrite any local file accessible by the server process",
+    "Root Cause": "unsafe extraction using tarfile.extractall()",
+    "Affected Product and Versions": "mindsdb versions before 23.2.1.0"
+}

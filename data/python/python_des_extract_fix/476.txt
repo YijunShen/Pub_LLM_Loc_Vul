@@ -1,0 +1,7 @@
+{
+    "Affected Component": "some parameters on the endpoints for confirming third-party identifiers",
+    "Attack Vector": "missing input validation of parameters",
+    "Impact": "excessive use of disk space and memory",
+    "Root Cause": "missing input validation",
+    "Affected Product and Versions": "Sydent 2.2.0 and prior"
+}

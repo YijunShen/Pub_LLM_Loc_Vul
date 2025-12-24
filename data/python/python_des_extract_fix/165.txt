@@ -1,0 +1,7 @@
+{
+    "Affected Component": "account deactivation process",
+    "Attack Vector": "simultaneous access during deactivation",
+    "Impact": "continued access by deactivated user",
+    "Root Cause": "race condition during account deactivation",
+    "Affected Product and Versions": "Zulip 4.0–4.10"
+}

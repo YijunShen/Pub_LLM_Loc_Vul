@@ -1,0 +1,7 @@
+{
+    "Affected Component": "_validate_redirect_url function",
+    "Attack Vector": "providing multiple back slashes such as \\\\\\evil.com/path",
+    "Impact": "redirect a user to an arbitrary URL",
+    "Root Cause": "improper URL validation",
+    "Affected Product and Versions": "Flask-Unchained before 0.9.0"
+}

@@ -1,0 +1,7 @@
+{
+    "Affected Component": null,
+    "Attack Vector": "path traversal in endpoints",
+    "Impact": "arbitrary file read/write, potential remote code execution",
+    "Root Cause": null,
+    "Affected Product and Versions": "OpenClinica prior to 3.16"
+}

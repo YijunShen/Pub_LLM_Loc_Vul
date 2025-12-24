@@ -1,0 +1,7 @@
+{
+    "Affected Component": null,
+    "Attack Vector": "login without authorization",
+    "Impact": null,
+    "Root Cause": null,
+    "Affected Product and Versions": "Apache IoTDB Grafana Connector 0.13.0–0.13.3"
+}

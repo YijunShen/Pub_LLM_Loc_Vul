@@ -1,0 +1,7 @@
+{
+    "Affected Component": null,
+    "Attack Vector": "inject payloads in name input field during purchase",
+    "Impact": "payload execution when Excel file is opened",
+    "Root Cause": "improper input sanitization",
+    "Affected Product and Versions": "Shuup 0.4.2–2.10.8"
+}

@@ -1,0 +1,7 @@
+{
+    "Affected Component": null,
+    "Attack Vector": "sending STOMP frames without initial CONNECT frame",
+    "Impact": "unauthorized subscription or message publishing",
+    "Root Cause": "lack of check for initial CONNECT frame and successful CONNECTED frame reply",
+    "Affected Product and Versions": "Vert.x STOMP 3.1.0–3.9.15, 4.0.0–4.4.1"
+}

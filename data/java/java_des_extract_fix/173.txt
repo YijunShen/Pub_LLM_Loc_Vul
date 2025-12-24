@@ -1,0 +1,7 @@
+{
+    "Affected Component": null,
+    "Attack Vector": "crafted Git URL",
+    "Impact": "arbitrary code execution",
+    "Root Cause": "improper input validation",
+    "Affected Product and Versions": "ThoughtWorks GoCD before 21.3.0"
+}

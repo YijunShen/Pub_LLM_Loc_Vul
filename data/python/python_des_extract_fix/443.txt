@@ -1,0 +1,7 @@
+{
+    "Affected Component": "SevenZipFile.extractall() function",
+    "Attack Vector": "crafted 7z file",
+    "Impact": "write arbitrary files",
+    "Root Cause": null,
+    "Affected Product and Versions": "py7zr v0.20.0 and earlier"
+}

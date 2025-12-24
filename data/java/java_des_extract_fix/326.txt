@@ -1,0 +1,7 @@
+{
+    "Affected Component": null,
+    "Attack Vector": "crafted YAML file",
+    "Impact": "remote code execution",
+    "Root Cause": "use of SnakeYaml without SafeConstructor allowing arbitrary class instantiation",
+    "Affected Product and Versions": "OneDev before 4.0.3"
+}

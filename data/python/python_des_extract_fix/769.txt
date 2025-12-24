@@ -1,0 +1,7 @@
+{
+    "Affected Component": "notebook server link handling",
+    "Attack Vector": "maliciously crafted link to a notebook server",
+    "Impact": "redirect to a different website",
+    "Root Cause": "improper link validation",
+    "Affected Product and Versions": "Jupyter Notebook before 6.1.5"
+}

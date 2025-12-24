@@ -1,0 +1,7 @@
+{
+    "Affected Component": "logging mechanism",
+    "Attack Vector": "accessing logs",
+    "Impact": "exposure of sensitive data, potential privilege escalation",
+    "Root Cause": "logging of sensitive information",
+    "Affected Product and Versions": "cloud-init before 23.1.2"
+}

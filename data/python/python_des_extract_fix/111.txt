@@ -1,0 +1,7 @@
+{
+    "Affected Component": "secret file stores the user's Planet API authentication information",
+    "Attack Vector": "local access by group or non-group users",
+    "Impact": "unauthorized access to authentication information",
+    "Root Cause": "improper file permission settings",
+    "Affected Product and Versions": "Planet before 2.0.1"
+}

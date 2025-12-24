@@ -1,0 +1,7 @@
+{
+    "Affected Component": null,
+    "Attack Vector": "inputs containing multiple instances of non-repeated embedded messages with repeated or unknown fields",
+    "Impact": "denial of service",
+    "Root Cause": "objects being converted back and forth between mutable and immutable forms",
+    "Affected Product and Versions": "protobuf-java core and lite versions prior to 3.21.7, 3.20.3, 3.19.6, 3.16.3"
+}

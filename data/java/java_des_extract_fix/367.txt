@@ -1,0 +1,7 @@
+{
+    "Affected Component": null,
+    "Attack Vector": "forged JWT",
+    "Impact": null,
+    "Root Cause": "did not properly verify the signature of JSON Web Tokens",
+    "Affected Product and Versions": "Grassroot Platform before master deployment as of 2021-04-16"
+}

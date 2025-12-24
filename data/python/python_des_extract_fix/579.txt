@@ -1,0 +1,7 @@
+{
+    "Affected Component": "room information access control",
+    "Attack Vector": "knowing the room ID",
+    "Impact": "unauthorized access to room name, avatar, topic, and member count",
+    "Root Cause": "improper access control in group/community functionality",
+    "Affected Product and Versions": "Matrix 1.41.0 and prior"
+}

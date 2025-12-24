@@ -1,0 +1,7 @@
+{
+    "Affected Component": "Sensitive Cookie in HTTPS Session Without 'Secure' Attribute",
+    "Attack Vector": "Sensitive Cookie",
+    "Impact": null,
+    "Root Cause": "lack of 'Secure' attribute on cookie",
+    "Affected Product and Versions": "rdiffweb prior to 2.4.6"
+}

@@ -1,0 +1,7 @@
+{
+    "Affected Component": "temporary directory creation",
+    "Attack Vector": "local user racing to create temporary subdirectory",
+    "Impact": "local privilege escalation",
+    "Root Cause": "shared temporary directory on Unix-like systems",
+    "Affected Product and Versions": "swagger-codegen before version 2.4.19"
+}

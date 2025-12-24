@@ -1,0 +1,7 @@
+{
+    "Affected Component": null,
+    "Attack Vector": "the previous session on login",
+    "Impact": null,
+    "Root Cause": "does not invalidate the previous session on login",
+    "Affected Product and Versions": "Jenkins Azure AD Plugin up to 303.va_91ef20ee49f"
+}

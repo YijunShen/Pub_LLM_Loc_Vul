@@ -1,0 +1,7 @@
+{
+    "Affected Component": "User#setDisabledStatus",
+    "Attack Vector": "user with Script rights",
+    "Impact": "enable or disable a user",
+    "Root Cause": "missing authorization",
+    "Affected Product and Versions": "XWiki before 13.10.7, before 14.4.2, and before 14.5RC1"
+}

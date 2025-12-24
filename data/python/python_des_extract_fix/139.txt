@@ -1,0 +1,7 @@
+{
+    "Affected Component": "issue commands as other users who share the same server",
+    "Attack Vector": "admin user issuing commands",
+    "Impact": "issue commands as other users, potentially execute bot-owner restricted commands",
+    "Root Cause": "vulnerability in command handling",
+    "Affected Product and Versions": "x26-Cogs Defender cog prior to 1.10.0"
+}

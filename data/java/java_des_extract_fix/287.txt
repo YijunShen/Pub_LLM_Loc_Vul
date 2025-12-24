@@ -1,0 +1,7 @@
+{
+    "Affected Component": "the `modifications` rest endpoint",
+    "Attack Vector": "accessing the modifications rest endpoint",
+    "Impact": "exposure of hidden information",
+    "Root Cause": "does not filter out entries according to the user's rights",
+    "Affected Product and Versions": "XWiki Platform versions before 14.6, 14.4.3, and 13.10.8"
+}

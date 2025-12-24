@@ -1,0 +1,7 @@
+{
+    "Affected Component": "load-file and load-resource functions",
+    "Attack Vector": "passing absolute paths with name prefix matching a load path",
+    "Impact": "loading files outside configured load paths",
+    "Root Cause": "improper handling of absolute paths in load-file and load-resource functions",
+    "Affected Product and Versions": "Venice <= 1.10.17"
+}

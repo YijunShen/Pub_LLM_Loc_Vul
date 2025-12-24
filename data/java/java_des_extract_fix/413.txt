@@ -1,0 +1,7 @@
+{
+    "Affected Component": "ScramServer",
+    "Attack Vector": "if enabled",
+    "Impact": "confidentiality loss",
+    "Root Cause": null,
+    "Affected Product and Versions": "Wildfly Elytron prior to 1.10.14.Final, prior to 1.15.5.Final, prior to 1.16.1.Final"
+}

@@ -1,0 +1,7 @@
+{
+    "Affected Component": "tf.ragged.constant implementation",
+    "Attack Vector": "malicious input arguments",
+    "Impact": "consuming all available memory",
+    "Root Cause": "does not fully validate the input arguments",
+    "Affected Product and Versions": "TensorFlow prior to 2.9.0, 2.8.1, 2.7.2, and 2.6.4"
+}

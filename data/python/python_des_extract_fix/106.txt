@@ -1,0 +1,7 @@
+{
+    "Affected Component": "ZulipLDAPAuthBackend and external authentication backend configuration",
+    "Attack Vector": "creating a new account with an arbitrary email address",
+    "Impact": "unauthorized account creation",
+    "Root Cause": "improper handling of authentication backends and organization permissions",
+    "Affected Product and Versions": "Zulip versions before 6.2"
+}

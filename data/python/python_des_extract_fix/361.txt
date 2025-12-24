@@ -1,0 +1,7 @@
+{
+    "Affected Component": null,
+    "Attack Vector": "symbolic directory links",
+    "Impact": "access outside of intended directory",
+    "Root Cause": "improper handling of symbolic links",
+    "Affected Product and Versions": "Warpinator through 1.2.14"
+}

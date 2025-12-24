@@ -1,0 +1,7 @@
+{
+    "Affected Component": "temporary directory handling",
+    "Attack Vector": "creating directories with wider permissions",
+    "Impact": "data confidentiality and integrity compromise",
+    "Root Cause": "directories created with wider user permissions prior to Java process",
+    "Affected Product and Versions": "keycloak null"
+}

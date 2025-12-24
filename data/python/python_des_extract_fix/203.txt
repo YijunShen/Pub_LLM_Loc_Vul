@@ -1,0 +1,7 @@
+{
+    "Affected Component": null,
+    "Attack Vector": "crafted requests",
+    "Impact": "arbitrary requests, cookie theft, access to private areas, or XSS",
+    "Root Cause": null,
+    "Affected Product and Versions": "scout prior to v4.42"
+}

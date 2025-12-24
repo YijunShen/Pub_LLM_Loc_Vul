@@ -1,0 +1,7 @@
+{
+    "Affected Component": null,
+    "Attack Vector": "forged JWT",
+    "Impact": "authentication bypass",
+    "Root Cause": "improper signature verification",
+    "Affected Product and Versions": "Portofino before 5.2.1"
+}

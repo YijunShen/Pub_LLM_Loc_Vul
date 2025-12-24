@@ -1,0 +1,7 @@
+{
+    "Affected Component": "Kubernetes credentials lookup",
+    "Attack Vector": "Item/Configure permission exploitation",
+    "Impact": "unauthorized access and potentially capture Kubernetes credentials they are not entitled to",
+    "Root Cause": "does not set the appropriate context for Kubernetes credentials lookup",
+    "Affected Product and Versions": "Jenkins Kubernetes Credentials Provider Plugin up to 1.208.v128ee9800c04"
+}

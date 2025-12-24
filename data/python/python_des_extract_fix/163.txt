@@ -1,0 +1,7 @@
+{
+    "Affected Component": "server logging mechanism",
+    "Attack Vector": "monitoring server logs",
+    "Impact": "unauthorized access to sensitive information",
+    "Root Cause": "logging of auth cookie and header values in 5xx errors",
+    "Affected Product and Versions": "Jupyter Server prior to 1.15.4"
+}

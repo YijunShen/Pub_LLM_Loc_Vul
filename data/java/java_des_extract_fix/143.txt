@@ -1,0 +1,7 @@
+{
+    "Affected Component": null,
+    "Attack Vector": "specially crafted archive with directory traversal filenames",
+    "Impact": "remote command execution, file creation or overwrite",
+    "Root Cause": "improper handling of archive filenames",
+    "Affected Product and Versions": "Bytecode Viewer prior to 2.11.0"
+}

@@ -1,0 +1,7 @@
+{
+    "Affected Component": "XML parser",
+    "Attack Vector": null,
+    "Impact": null,
+    "Root Cause": "does not configure its XML parser to prevent XXE attacks",
+    "Affected Product and Versions": "Jenkins Semantic Versioning Plugin 1.14 and earlier"
+}

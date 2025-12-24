@@ -1,0 +1,7 @@
+{
+    "Affected Component": "HTTPS to HTTPS proxy connection",
+    "Attack Vector": "HTTPS proxy with invalid certificate",
+    "Impact": "silent acceptance of invalid certificates",
+    "Root Cause": "omission of SSL certificate validation",
+    "Affected Product and Versions": "urllib3 1.26.0–1.26.3"
+}

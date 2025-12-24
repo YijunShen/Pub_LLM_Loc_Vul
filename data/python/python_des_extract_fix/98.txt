@@ -1,0 +1,7 @@
+{
+    "Affected Component": "default credentials generation",
+    "Attack Vector": "guessing credentials",
+    "Impact": "gain access to resources",
+    "Root Cause": "insufficiently random values",
+    "Affected Product and Versions": "Netflix Lemur before version 1.3.2"
+}

@@ -1,0 +1,7 @@
+{
+    "Affected Component": "JSPUI resumable upload implementations in SubmissionController and FileUploadRequest",
+    "Attack Vector": "modifying request parameters during submission",
+    "Impact": "create files/directories anywhere on the server writable by the Tomcat/DSpace user",
+    "Root Cause": "path traversal attacks",
+    "Affected Product and Versions": "DSpace dspace-jspui (specific versions not mentioned)"
+}

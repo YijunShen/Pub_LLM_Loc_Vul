@@ -1,0 +1,7 @@
+{
+    "Affected Component": "zip file extraction mechanism",
+    "Attack Vector": "malicious zip file",
+    "Impact": "remote code execution",
+    "Root Cause": "improper validation of zip file contents",
+    "Affected Product and Versions": "com.diffplug.gradle:goomph before 3.37.2"
+}

@@ -1,0 +1,7 @@
+{
+    "Affected Component": "Google Login implementation via OAuth",
+    "Attack Vector": "exploitation of predictable state parameter",
+    "Impact": "potential unauthorized redirection or CSRF attack",
+    "Root Cause": "incorrect use of state parameter for next URL instead of CSRF token",
+    "Affected Product and Versions": "Redash 10.0 and prior"
+}

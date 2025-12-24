@@ -1,0 +1,7 @@
+{
+    "Affected Component": "Global.py",
+    "Attack Vector": null,
+    "Impact": null,
+    "Root Cause": null,
+    "Affected Product and Versions": "AIL framework 2.8"
+}

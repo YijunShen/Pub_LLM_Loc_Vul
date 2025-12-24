@@ -1,0 +1,7 @@
+{
+    "Affected Component": "ZODB Role Manager plugin",
+    "Attack Vector": "everyone can list role names",
+    "Impact": "information disclosure",
+    "Root Cause": null,
+    "Affected Product and Versions": "Products.PluggableAuthService before 2.6.0"
+}

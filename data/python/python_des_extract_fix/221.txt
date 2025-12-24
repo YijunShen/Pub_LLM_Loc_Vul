@@ -1,0 +1,7 @@
+{
+    "Affected Component": "CILogonOAuthenticator login handler",
+    "Attack Vector": "login with unauthorized identity provider",
+    "Impact": "unauthorized access",
+    "Root Cause": "improper verification of identity provider",
+    "Affected Product and Versions": "OAuthenticator package versions prior to patch"
+}

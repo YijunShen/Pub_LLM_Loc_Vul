@@ -1,0 +1,7 @@
+{
+    "Affected Component": "agent registrar data handling",
+    "Attack Vector": "using one AK, EK pair from a real TPM for EK validation and providing a different AK for integrity quote validation",
+    "Impact": "breaks the entire chain of trust",
+    "Root Cause": "not enforcing that the agent registrar data is the same when used by tenant and verifier",
+    "Affected Product and Versions": "Keylime null"
+}

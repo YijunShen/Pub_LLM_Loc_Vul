@@ -1,0 +1,7 @@
+{
+    "Affected Component": "Keylime agent secure mount checking logic",
+    "Attack Vector": "previously created unprivileged mounts",
+    "Impact": "secrets leaked to other processes",
+    "Root Cause": "logic can be fooled by unprivileged mounts",
+    "Affected Product and Versions": "Keylime before 6.3.0"
+}

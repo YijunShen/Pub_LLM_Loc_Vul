@@ -1,0 +1,7 @@
+{
+    "Affected Component": "logout mechanism",
+    "Attack Vector": "logout request from external SAML identity provider with Principal Type set to Attribute [Name]",
+    "Impact": "failure to logout user session",
+    "Root Cause": null,
+    "Affected Product and Versions": "keycloak"
+}

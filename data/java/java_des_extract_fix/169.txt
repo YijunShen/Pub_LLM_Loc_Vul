@@ -1,0 +1,7 @@
+{
+    "Affected Component": null,
+    "Attack Vector": "providing a malicious JDBC driver",
+    "Impact": "remote code execution",
+    "Root Cause": "JDBC drivers are not validated prior to use",
+    "Affected Product and Versions": "Databasir 1.01"
+}

@@ -1,0 +1,7 @@
+{
+    "Affected Component": null,
+    "Attack Vector": "carefully crafted URL with a trusted domain",
+    "Impact": "redirect to a malicious site",
+    "Root Cause": "improper handling of the 'next' parameter",
+    "Affected Product and Versions": "Flask-AppBuilder versions before 3.2.2"
+}

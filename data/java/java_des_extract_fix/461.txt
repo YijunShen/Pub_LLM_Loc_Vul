@@ -1,0 +1,7 @@
+{
+    "Affected Component": null,
+    "Attack Vector": "specifically crafted validator link",
+    "Impact": null,
+    "Root Cause": null,
+    "Affected Product and Versions": "CSS Validator <= commit 54d68a1"
+}

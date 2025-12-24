@@ -1,0 +1,7 @@
+{
+    "Affected Component": "password generation module",
+    "Attack Vector": "guessing passwords",
+    "Impact": "password guessing",
+    "Root Cause": "reliance on python random library",
+    "Affected Product and Versions": "Passeo prior to 1.0.5"
+}

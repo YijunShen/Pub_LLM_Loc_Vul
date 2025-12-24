@@ -1,0 +1,7 @@
+{
+    "Affected Component": "ARAX-UI Synonym Lookup functionality",
+    "Attack Vector": "SQL injection",
+    "Impact": "remote code execution, complete server takeover",
+    "Root Cause": null,
+    "Affected Product and Versions": "ARAX-UI prior to checkpoint_2022-04-20"
+}

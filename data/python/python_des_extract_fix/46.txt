@@ -1,0 +1,7 @@
+{
+    "Affected Component": null,
+    "Attack Vector": "crafted 'nameless' cookie from a compromised subdomain via vulnerable browser",
+    "Impact": "incorrect cookie parsing leading to potential security issues",
+    "Root Cause": "improper handling of 'nameless' cookies",
+    "Affected Product and Versions": "Werkzeug prior to 2.2.3"
+}

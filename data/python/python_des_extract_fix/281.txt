@@ -1,0 +1,7 @@
+{
+    "Affected Component": "session cookie to authenticate account exists",
+    "Attack Vector": "use of stolen session cookie",
+    "Impact": "unauthorized authentication",
+    "Root Cause": "improper session management",
+    "Affected Product and Versions": "OctoPrint null"
+}

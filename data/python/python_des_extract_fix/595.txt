@@ -1,0 +1,7 @@
+{
+    "Affected Component": "a Keras model from YAML format.",
+    "Attack Vector": "deserializing a crafted YAML model",
+    "Impact": "arbitrary code execution",
+    "Root Cause": "use of yaml.unsafe_load",
+    "Affected Product and Versions": "TensorFlow 2.3.4, 2.4.3, 2.5.1, and 2.6.0 (before patching)"
+}

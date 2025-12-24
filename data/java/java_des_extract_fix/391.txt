@@ -1,0 +1,7 @@
+{
+    "Affected Component": "EmailValidator component",
+    "Attack Vector": "submitting malicious email addresses",
+    "Impact": "uncontrolled resource consumption",
+    "Root Cause": "unsafe validation RegEx",
+    "Affected Product and Versions": "com.vaadin:vaadin-compatibility-server 8.0.0–8.12.4"
+}

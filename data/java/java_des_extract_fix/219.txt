@@ -1,0 +1,7 @@
+{
+    "Affected Component": "WebSocket PONG message handler",
+    "Attack Vector": "incoming WebSocket PONG message",
+    "Impact": "denial of service",
+    "Root Cause": "memory exhaustion",
+    "Affected Product and Versions": "Undertow"
+}

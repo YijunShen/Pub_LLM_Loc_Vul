@@ -1,0 +1,7 @@
+{
+    "Affected Component": null,
+    "Attack Vector": "crafted build artifact containing HTML and JavaScript",
+    "Impact": "session theft, privilege escalation, arbitrary code execution on server",
+    "Root Cause": "serving artifact files without restrictions and lack of HttpOnly flag on cookies",
+    "Affected Product and Versions": "Onedev versions before 7.3.0"
+}

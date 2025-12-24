@@ -1,0 +1,7 @@
+{
+    "Affected Component": "dynarray length word handling during codegen",
+    "Attack Vector": "assignment with dynarray on both lhs and rhs",
+    "Impact": "data corruption across call frames",
+    "Root Cause": "length word written before data during codegen",
+    "Affected Product and Versions": "Vyper prior to 0.3.8"
+}

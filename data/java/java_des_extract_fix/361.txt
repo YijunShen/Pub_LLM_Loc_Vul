@@ -1,0 +1,7 @@
+{
+    "Affected Component": "client registration endpoint",
+    "Attack Vector": "unauthenticated request",
+    "Impact": "data confidentiality loss",
+    "Root Cause": "lack of authentication for public clients",
+    "Affected Product and Versions": "keycloak prior to 13.0.0"
+}

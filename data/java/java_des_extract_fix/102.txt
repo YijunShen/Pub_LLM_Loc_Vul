@@ -1,0 +1,7 @@
+{
+    "Affected Component": "JavaScript xobject or StyleSheet xobject added in a XWiki document",
+    "Attack Vector": "crafted script in a xobject",
+    "Impact": "unauthorized operations execution",
+    "Root Cause": "no check in the author of a xobject",
+    "Affected Product and Versions": "XWiki Commons before 14.9-rc-1"
+}

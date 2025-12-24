@@ -1,0 +1,7 @@
+{
+    "Affected Component": "XMLRPC method",
+    "Attack Vector": "crafted XMLRPC request",
+    "Impact": "remote code execution",
+    "Root Cause": "improper input validation for template injection",
+    "Affected Product and Versions": "Cobbler before 3.3.0"
+}

@@ -1,0 +1,7 @@
+{
+    "Affected Component": "HTTP JSON-RPC API login endpoint",
+    "Attack Vector": "overloading with invalid login requests",
+    "Impact": "denial of service",
+    "Root Cause": "password validity check on main event loop causing processing delays",
+    "Affected Product and Versions": "Hyperledger Besu before version 1.5.1"
+}

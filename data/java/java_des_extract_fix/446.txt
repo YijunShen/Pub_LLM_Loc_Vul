@@ -1,0 +1,7 @@
+{
+    "Affected Component": null,
+    "Attack Vector": "crafted remember-me cookie with arbitrary username",
+    "Impact": "assume identity of users, access non-public content",
+    "Root Cause": "improper validation of remember-me cookie when endpoint allows anonymous access",
+    "Affected Product and Versions": "Opencast before 7.6 and 8.1"
+}

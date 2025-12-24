@@ -1,0 +1,7 @@
+{
+    "Affected Component": null,
+    "Attack Vector": "malicious SAF package",
+    "Impact": "file/directory creation anywhere writable on the server",
+    "Root Cause": "path traversal vulnerability",
+    "Affected Product and Versions": "DSpace open source software in affected versions"
+}

@@ -1,0 +1,7 @@
+{
+    "Affected Component": "URL preview feature",
+    "Attack Vector": "crafted web page URLs",
+    "Impact": "process crash or error",
+    "Root Cause": "unbounded recursion",
+    "Affected Product and Versions": "Synapse prior to 1.61.1"
+}

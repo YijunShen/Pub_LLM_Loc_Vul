@@ -1,0 +1,7 @@
+{
+    "Affected Component": "RAR archive extraction module",
+    "Attack Vector": "carefully crafted RAR archive",
+    "Impact": "depends on application usage (e.g., denial of service)",
+    "Root Cause": null,
+    "Affected Product and Versions": "Junrar versions before 7.4.1"
+}

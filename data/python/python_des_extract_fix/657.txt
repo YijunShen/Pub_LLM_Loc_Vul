@@ -1,0 +1,7 @@
+{
+    "Affected Component": "The regular expression may cause exponential backtracking on strings containing many repetitions of '\\r\\n' in SQL comments",
+    "Attack Vector": "strings containing many repetitions of '\\r\\n' in SQL comments",
+    "Impact": "Denial of Service",
+    "Root Cause": "exponential backtracking in regular expression",
+    "Affected Product and Versions": "sqlparse 0.4.0–0.4.1"
+}

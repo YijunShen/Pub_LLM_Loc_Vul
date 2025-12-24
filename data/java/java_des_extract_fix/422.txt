@@ -1,0 +1,7 @@
+{
+    "Affected Component": null,
+    "Attack Vector": "manipulating the HTTP request",
+    "Impact": "read arbitrary files",
+    "Root Cause": "improper path validation",
+    "Affected Product and Versions": "OpenOlat versions before 15.5.8 and 16.0.1"
+}

@@ -1,0 +1,7 @@
+{
+    "Affected Component": "Import Recipe functionality",
+    "Attack Vector": "entering localhost URL",
+    "Impact": "access/read internal file system to access sensitive information",
+    "Root Cause": null,
+    "Affected Product and Versions": "Recipes 0.9.1–1.2.5"
+}

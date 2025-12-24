@@ -1,0 +1,7 @@
+{
+    "Affected Component": "createTempFile() is used in the FileBodyHandler class",
+    "Attack Vector": null,
+    "Impact": "file read by local user",
+    "Root Cause": "use of insecure File.createTempFile()",
+    "Affected Product and Versions": "RestEasy Reactive implementation of Quarkus"
+}

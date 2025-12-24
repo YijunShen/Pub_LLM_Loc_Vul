@@ -1,0 +1,7 @@
+{
+    "Affected Component": null,
+    "Attack Vector": "user-controlled input in APIs",
+    "Impact": "retrieval and writing of admin configuration and files",
+    "Root Cause": "insufficient input validation",
+    "Affected Product and Versions": "loklak up to commit 5f48476"
+}

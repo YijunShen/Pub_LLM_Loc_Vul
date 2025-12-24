@@ -1,0 +1,7 @@
+{
+    "Affected Component": "visit/appendTo function in ViewExportedVariablesServlet.java",
+    "Attack Vector": "remote attack",
+    "Impact": "cross site scripting",
+    "Root Cause": null,
+    "Affected Product and Versions": "Indeed Engineering util up to 1.0.33"
+}

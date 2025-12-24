@@ -1,0 +1,7 @@
+{
+    "Affected Component": "rpc.py serializer handling",
+    "Attack Vector": "sending HTTP header with 'serializer: pickle'",
+    "Impact": "remote code execution",
+    "Root Cause": "unpickle occurs due to improper handling of serializer header",
+    "Affected Product and Versions": "rpc.py through 0.6.0"
+}

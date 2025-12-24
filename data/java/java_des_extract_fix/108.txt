@@ -1,0 +1,7 @@
+{
+    "Affected Component": "JMX management service",
+    "Attack Vector": "malicious local user accessing JMX without authentication",
+    "Impact": "privilege escalation",
+    "Root Cause": "lack of authentication in JMX service by default",
+    "Affected Product and Versions": "Apache James server 3.7.3 and earlier"
+}

@@ -1,0 +1,7 @@
+{
+    "Affected Component": "quote responses from the agent",
+    "Attack Vector": "untrusted ZIP data",
+    "Impact": "zip bombs",
+    "Root Cause": "handling of untrusted ZIP data",
+    "Affected Product and Versions": "Keylime before 6.3.0"
+}

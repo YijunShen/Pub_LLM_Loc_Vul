@@ -1,0 +1,7 @@
+{
+    "Affected Component": "psiturk/experiment.py",
+    "Attack Vector": "manipulation of the argument mode",
+    "Impact": null,
+    "Root Cause": "improper neutralization of special elements used in a template engine",
+    "Affected Product and Versions": "NYUCCL psiTurk up to 3.2.0"
+}

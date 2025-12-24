@@ -1,0 +1,7 @@
+{
+    "Affected Component": "getrgb function",
+    "Attack Vector": "crafted input to getrgb function",
+    "Impact": "denial of service",
+    "Root Cause": "vulnerable regular expression",
+    "Affected Product and Versions": "pillow 5.2.0 and before 8.3.2"
+}

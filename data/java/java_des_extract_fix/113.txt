@@ -1,0 +1,7 @@
+{
+    "Affected Component": "the update configuration function",
+    "Attack Vector": "using update configuration function or forging RocketMQ protocol content",
+    "Impact": "remote command execution",
+    "Root Cause": "leaked components on extranet and lack of permission verification",
+    "Affected Product and Versions": "RocketMQ 5.1.0 and below"
+}

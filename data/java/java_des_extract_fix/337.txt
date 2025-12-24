@@ -1,0 +1,7 @@
+{
+    "Affected Component": "createOrUpdate in Permission.java and related code",
+    "Attack Vector": "user interaction",
+    "Impact": "local escalation of privilege",
+    "Root Cause": "logic error",
+    "Affected Product and Versions": "Android 8.0, 8.1, 9, 10, 11"
+}

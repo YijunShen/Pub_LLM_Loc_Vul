@@ -1,0 +1,7 @@
+{
+    "Affected Component": "LogisticRegression function",
+    "Attack Vector": "local approach",
+    "Impact": "insecure temporary file",
+    "Root Cause": "manipulation leads to insecure temporary file",
+    "Affected Product and Versions": "pig-vector null"
+}

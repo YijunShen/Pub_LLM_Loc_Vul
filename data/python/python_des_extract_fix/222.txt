@@ -1,0 +1,7 @@
+{
+    "Affected Component": "external contract call with no return value",
+    "Attack Vector": "calling an external contract",
+    "Impact": "incorrect outcomes for contracts",
+    "Root Cause": "contract address (including side effects) could be evaluated twice",
+    "Affected Product and Versions": "Vyper versions prior to 0.3.4"
+}

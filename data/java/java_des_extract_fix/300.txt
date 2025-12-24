@@ -1,0 +1,7 @@
+{
+    "Affected Component": "validateFieldName function in AppointmentTypeValidator.java",
+    "Attack Vector": "remote manipulation",
+    "Impact": "cross site scripting",
+    "Root Cause": null,
+    "Affected Product and Versions": "OpenMRS Appointment Scheduling Module up to 1.12.x"
+}

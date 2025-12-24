@@ -1,0 +1,7 @@
+{
+    "Affected Component": "ValidatorNuMessage function",
+    "Attack Vector": "manipulation of the message argument",
+    "Impact": null,
+    "Root Cause": null,
+    "Affected Product and Versions": "w3c Unicorn"
+}

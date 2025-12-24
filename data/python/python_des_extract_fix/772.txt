@@ -1,0 +1,7 @@
+{
+    "Affected Component": null,
+    "Attack Vector": "entering arbitrary JavaScript code in user input fields",
+    "Impact": "execute arbitrary JavaScript code, manipulate votes, hijack sessions, disturb meetings",
+    "Root Cause": "insufficient user input validation and escaping",
+    "Affected Product and Versions": "OpenSlides 3.2"
+}

@@ -1,0 +1,7 @@
+{
+    "Affected Component": "/send_join, /send_leave, /invite, /exchange_third_party_invite request handlers",
+    "Attack Vector": "malformed events from a malicious homeserver",
+    "Impact": "denial of service",
+    "Root Cause": "improper validation of room id in requests",
+    "Affected Product and Versions": "Matrix Synapse before version 1.23.1"
+}

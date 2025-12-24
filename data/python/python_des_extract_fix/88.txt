@@ -1,0 +1,7 @@
+{
+    "Affected Component": "raw_call function with revert_on_failure=False and max_outsize=0",
+    "Attack Vector": "use of raw_call with specific parameters",
+    "Impact": "incorrect response (True or False) from raw_call",
+    "Root Cause": "improper bytecode generation by the compiler",
+    "Affected Product and Versions": "Vyper 0.3.1–0.3.7"
+}

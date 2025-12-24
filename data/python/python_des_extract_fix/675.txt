@@ -1,0 +1,7 @@
+{
+    "Affected Component": "URL-loading data sources (JSON, CSV, Excel)",
+    "Attack Vector": "exploiting URL-loading data sources",
+    "Impact": "Server Side Request Forgery",
+    "Root Cause": "implementation using requests library directly without proper safeguards",
+    "Affected Product and Versions": "Redash versions prior to 10.0.1"
+}

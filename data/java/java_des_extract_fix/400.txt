@@ -1,0 +1,7 @@
+{
+    "Affected Component": "JSON Web Token signature verification",
+    "Attack Vector": "forged JWT",
+    "Impact": "authentication bypass",
+    "Root Cause": "improper signature verification",
+    "Affected Product and Versions": "Common before commit 3b96cb0293d3443b870351945f41d7d55cb34b53"
+}

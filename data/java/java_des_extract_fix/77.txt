@@ -1,0 +1,7 @@
+{
+    "Affected Component": "The \"restricted\" mode of the HTML cleaner",
+    "Attack Vector": "invalid HTML comments",
+    "Impact": "server-side code execution with programming rights",
+    "Root Cause": "improper handling of HTML comments",
+    "Affected Product and Versions": "XWiki 4.2-milestone-1 to 14.10"
+}

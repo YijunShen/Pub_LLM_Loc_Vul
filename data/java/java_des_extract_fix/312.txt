@@ -1,0 +1,7 @@
+{
+    "Affected Component": "unpackJar function in src/main/java/org/lemsml/jlems/io/util/JUtil.java",
+    "Attack Vector": "remote attack",
+    "Impact": "path traversal",
+    "Root Cause": null,
+    "Affected Product and Versions": "jLEMS"
+}

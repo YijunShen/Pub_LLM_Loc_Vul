@@ -1,0 +1,7 @@
+{
+    "Affected Component": "id_token claims processing",
+    "Attack Vector": "id_token claims with prefix",
+    "Impact": "remote code execution",
+    "Root Cause": "unsafe processing of id_token claims",
+    "Affected Product and Versions": "DataHub frontend with SSO authentication configured"
+}

@@ -1,0 +1,7 @@
+{
+    "Affected Component": "AbstractSxExportURLFactoryActionHandler#processSx",
+    "Attack Vector": "crafted SSX document references with filesystem syntax",
+    "Impact": "unauthorized file access or manipulation",
+    "Root Cause": "improper escaping of SSX document references",
+    "Affected Product and Versions": "XWiki Platform versions before 13.6-rc-1"
+}

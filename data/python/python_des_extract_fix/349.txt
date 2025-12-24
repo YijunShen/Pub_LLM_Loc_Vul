@@ -1,0 +1,7 @@
+{
+    "Affected Component": "/list/<path:folderpath> endpoint",
+    "Attack Vector": "crafted path in URL",
+    "Impact": "disclosure of sensitive data",
+    "Root Cause": "improper input validation",
+    "Affected Product and Versions": "Wikmd prior to 1.7.1"
+}

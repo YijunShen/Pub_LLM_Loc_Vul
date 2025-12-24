@@ -1,0 +1,7 @@
+{
+    "Affected Component": "Mysql data source JDBC connection parameters",
+    "Attack Vector": "adding parameters to a JDBC url and connecting to a malicious mysql server",
+    "Impact": "execute system commands and obtain server privileges",
+    "Root Cause": "MysqlConfiguration class does not filter any parameters",
+    "Affected Product and Versions": "Dataease prior to 1.15.2"
+}

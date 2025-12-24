@@ -1,0 +1,7 @@
+{
+    "Affected Component": "user name and language fields",
+    "Attack Vector": "user input in user name and language fields",
+    "Impact": "cross-site scripting",
+    "Root Cause": "improper neutralization of user input",
+    "Affected Product and Versions": "Weblate prior to 4.11"
+}

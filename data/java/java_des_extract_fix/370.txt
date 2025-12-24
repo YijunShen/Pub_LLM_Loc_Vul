@@ -1,0 +1,7 @@
+{
+    "Affected Component": null,
+    "Attack Vector": null,
+    "Impact": "self-reactivation of disabled user",
+    "Root Cause": "improper handling of activation links for disabled users",
+    "Affected Product and Versions": "XWiki Platform prior to 11.10.13, 12.6.7, and 12.10.2"
+}

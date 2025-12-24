@@ -1,0 +1,7 @@
+{
+    "Affected Component": "regular expression parser for index server URLs",
+    "Attack Vector": "passing index server URLs in the source file",
+    "Impact": "denial of service",
+    "Root Cause": "vulnerable regular expression",
+    "Affected Product and Versions": "dparse before 0.5.2"
+}

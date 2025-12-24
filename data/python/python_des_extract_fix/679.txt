@@ -1,0 +1,7 @@
+{
+    "Affected Component": null,
+    "Attack Vector": "crafted request to download a file from a remote server",
+    "Impact": "arbitrary file download to an arbitrary directory (limited by random path elements)",
+    "Root Cause": "improper path validation or lack of authentication",
+    "Affected Product and Versions": "Synapse prior to 1.47.1"
+}

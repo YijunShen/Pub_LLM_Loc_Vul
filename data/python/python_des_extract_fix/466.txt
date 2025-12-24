@@ -1,0 +1,7 @@
+{
+    "Affected Component": null,
+    "Attack Vector": "anonymous access",
+    "Impact": "view log and snapshot files",
+    "Root Cause": null,
+    "Affected Product and Versions": "Products.GenericSetup before 2.1.1"
+}

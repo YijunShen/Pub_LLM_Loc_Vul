@@ -1,0 +1,7 @@
+{
+    "Affected Component": "`display` method",
+    "Attack Vector": "editing user profile or using display method on a document",
+    "Impact": "remote code execution and unrestricted read and write access to all wiki contents",
+    "Root Cause": "improper access control or input validation for script macros",
+    "Affected Product and Versions": "XWiki Platform before 13.10.11, 14.4.8, 14.10.2, and 15.0RC1"
+}

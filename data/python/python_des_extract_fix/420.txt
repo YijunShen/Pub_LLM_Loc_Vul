@@ -1,0 +1,7 @@
+{
+    "Affected Component": "the function add_public_key of the file grouper/public_key.py",
+    "Attack Vector": "manipulation of public_key_str argument",
+    "Impact": null,
+    "Root Cause": null,
+    "Affected Product and Versions": "Dropbox merou"
+}

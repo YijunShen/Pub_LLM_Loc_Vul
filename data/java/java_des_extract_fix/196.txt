@@ -1,0 +1,7 @@
+{
+    "Affected Component": "the Crypto API will generate X509 certificates signed by default using SHA256 with RSA",
+    "Attack Vector": "generation of X509 certificates",
+    "Impact": "risk of certificate signature collisions",
+    "Root Cause": "use of SHA1 with RSA for signatures",
+    "Affected Product and Versions": "XWiki Platform versions before 13.10.6, 14.3.1, and 14.4-rc-1"
+}

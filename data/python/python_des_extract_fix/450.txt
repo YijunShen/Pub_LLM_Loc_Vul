@@ -1,0 +1,7 @@
+{
+    "Affected Component": "When processing SVG files, the python package CairoSVG uses two regular expressions",
+    "Attack Vector": "malicious SVG file",
+    "Impact": "denial of service",
+    "Root Cause": "vulnerable regular expressions",
+    "Affected Product and Versions": "CairoSVG before 2.5.1"
+}

@@ -1,0 +1,7 @@
+{
+    "Affected Component": "Act module",
+    "Attack Vector": "specially crafted messages",
+    "Impact": "perform destructive actions and/or access sensitive information",
+    "Root Cause": null,
+    "Affected Product and Versions": "Red Discord Bot Act module before commit 6b9f3b86"
+}

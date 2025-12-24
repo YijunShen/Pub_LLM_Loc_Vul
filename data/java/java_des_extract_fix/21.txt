@@ -1,0 +1,7 @@
+{
+    "Affected Component": "URL redirect validation",
+    "Attack Vector": "malicious request with double URL encoding",
+    "Impact": "access other URLs and potentially sensitive information",
+    "Root Cause": "does not properly validate URLs included in a redirect",
+    "Affected Product and Versions": "Keycloak (versions not specified)"
+}

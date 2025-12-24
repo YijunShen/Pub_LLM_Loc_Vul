@@ -1,0 +1,7 @@
+{
+    "Affected Component": "FQL/Audit logs",
+    "Attack Vector": "enabling FQL/Audit logs with JMX access",
+    "Impact": "run arbitrary commands as the user running Apache Cassandra",
+    "Root Cause": null,
+    "Affected Product and Versions": "Apache Cassandra 4.0.0–4.0.9, 4.1.0–4.1.1"
+}

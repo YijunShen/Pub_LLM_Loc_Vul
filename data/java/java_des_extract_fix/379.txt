@@ -1,0 +1,7 @@
+{
+    "Affected Component": "ref parameter handler",
+    "Attack Vector": "crafted URL with malicious ref parameter",
+    "Impact": "inject arbitrary web script or HTML",
+    "Root Cause": "improper input sanitization",
+    "Affected Product and Versions": "Shopizer before 2.17.0"
+}

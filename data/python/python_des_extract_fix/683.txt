@@ -1,0 +1,7 @@
+{
+    "Affected Component": "verify function",
+    "Attack Vector": "forged signature",
+    "Impact": "arbitrary message signing",
+    "Root Cause": "failure to check that the signature is non-zero",
+    "Affected Product and Versions": "Stark Bank Python ECDSA library before 2.0.1"
+}

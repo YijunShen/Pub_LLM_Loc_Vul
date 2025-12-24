@@ -1,0 +1,7 @@
+{
+    "Affected Component": "Trunc() and Extract() database functions",
+    "Attack Vector": "untrusted data used as kind/lookup_name value",
+    "Impact": "SQL injection",
+    "Root Cause": "improper input validation",
+    "Affected Product and Versions": "Django 3.2 before 3.2.14 and 4.0 before 4.0.6"
+}

@@ -1,0 +1,7 @@
+{
+    "Affected Component": "gadget title editing in dashboard",
+    "Attack Vector": "editing gadget titles",
+    "Impact": "execute script requiring privileges",
+    "Root Cause": "improper access control",
+    "Affected Product and Versions": "XWiki Platform prior to 12.6.7 and 12.10.3"
+}

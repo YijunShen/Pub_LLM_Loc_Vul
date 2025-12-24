@@ -1,0 +1,7 @@
+{
+    "Affected Component": "URI and URL parser",
+    "Attack Vector": "malicious URI",
+    "Impact": "redirection to arbitrary API endpoints",
+    "Root Cause": "improper input validation allowing arbitrary characters in path",
+    "Affected Product and Versions": "Spotipy prior to 2.22.1"
+}

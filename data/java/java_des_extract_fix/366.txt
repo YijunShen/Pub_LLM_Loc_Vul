@@ -1,0 +1,7 @@
+{
+    "Affected Component": "CSRF tokens in UIDL request handler",
+    "Attack Vector": "timing attack on CSRF token comparison",
+    "Impact": "guess a security token",
+    "Root Cause": "non-constant-time comparison of CSRF tokens",
+    "Affected Product and Versions": "com.vaadin:flow-server 1.0.0–1.0.13, 1.1.0–1.x (Vaadin 10.0.0–10.0.16, 11–13), 2.0.0–2.4.6 (Vaadin 14.0.0–14.4.6), 3.0.0–4.x (Vaadin 15–17), 5.0.0–5.0.2 (Vaadin 18.0.0–18.0.5)"
+}

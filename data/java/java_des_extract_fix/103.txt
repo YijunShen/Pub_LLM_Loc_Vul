@@ -1,0 +1,7 @@
+{
+    "Affected Component": null,
+    "Attack Vector": "redirect with omitted 'http:' or malformed URL like 'http:/mydomain.com'",
+    "Impact": "bypass of security measures leading to open redirect",
+    "Root Cause": "improper validation of redirect URLs",
+    "Affected Product and Versions": "XWiki Commons (versions before 13.10.10, 14.4.4, and 14.8RC1)"
+}

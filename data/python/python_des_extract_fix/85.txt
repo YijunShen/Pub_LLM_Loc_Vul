@@ -1,0 +1,7 @@
+{
+    "Affected Component": "user organization assigning",
+    "Attack Vector": "accidental user reassignment",
+    "Impact": "unintended access to restricted data",
+    "Root Cause": "improper access control during user reassignment",
+    "Affected Product and Versions": "vantage6 versions before 3.8.0"
+}

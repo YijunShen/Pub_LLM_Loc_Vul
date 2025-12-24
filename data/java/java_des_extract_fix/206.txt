@@ -1,0 +1,7 @@
+{
+    "Affected Component": "token exchange feature",
+    "Attack Vector": "client application holding a valid access token",
+    "Impact": "unauthorized access to additional services",
+    "Root Cause": "missing authorization",
+    "Affected Product and Versions": null
+}

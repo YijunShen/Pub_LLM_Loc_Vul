@@ -1,0 +1,7 @@
+{
+    "Affected Component": "HTTP request handler and response parser",
+    "Attack Vector": "large HTTP request body or large response from remote server",
+    "Impact": "memory exhaustion and denial of service",
+    "Root Cause": "does not limit the size of requests or responses",
+    "Affected Product and Versions": "Sydent (versions not specified)"
+}

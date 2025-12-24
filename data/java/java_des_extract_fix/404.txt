@@ -1,0 +1,7 @@
+{
+    "Affected Component": null,
+    "Attack Vector": "URL with \"/../../\" sequences",
+    "Impact": "access any file from the filesystem",
+    "Root Cause": "does not restrict file access to configured paths",
+    "Affected Product and Versions": "Micronaut prior to 2.5.9"
+}

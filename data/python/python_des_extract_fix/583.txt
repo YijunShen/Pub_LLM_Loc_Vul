@@ -1,0 +1,7 @@
+{
+    "Affected Component": "authorization mechanism for API calls",
+    "Attack Vector": "authenticated user from any Azure Active Directory tenant making API calls",
+    "Impact": "read/write access to private data, tampering with data, unauthorized code execution",
+    "Root Cause": "incomplete authorization check",
+    "Affected Product and Versions": "OneFuzz 2.12.0–2.30.0"
+}
